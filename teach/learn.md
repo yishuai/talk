@@ -159,6 +159,7 @@ class: middle, center
 ---
 # 学习资源
 
+- Eric Gilbert，如何度过研究生生涯，链接：https://yishuai.github.io/research/eric-students.pdf
 - 陈一帅，[研究入门](https://yishuai.github.io/research)
 - 邓瑾，哈佛访学一年，给了我哪些启示，[视频](http://m.boyakids.com/?_c=newmobile&_a=videoIndex&channel_id=18478&channel=bdbzomfd)
 
