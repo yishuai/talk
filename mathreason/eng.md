@@ -109,39 +109,51 @@ show that the claim originally arose in 2003, when on August 27 Mars came slight
 
 
 1. A logical argument always includes
-a. at least one premise and one conclusion. b. at least one premise and one fallacy.
+a. at least one premise and one conclusion. 
+b. at least one premise and one fallacy.
 c. at least one fallacy and one conclusion.
+
 2. A fallacy is
-a. a statement that is untrue. b. a heated argument.
+a. a statement that is untrue. 
+b. a heated argument.
 c. a deceptive argument.
+
 3. Which of the following could not qualify as a logical argument?
 a. a series of statements in which the conclusion comes before the premises
 b. a list of premises that do not lead to a conclusion
 c. a series of statements that generate heated debate
+
 4. An argument in which the conclusion essentially restates the premise is an example of
 a. circular reasoning.
 b. limited choice. 
 c. logic.
-a. the fact that a statement p is true is taken to imply that the
+
 5. The fallacy of appeal to ignorance occurs when
-opposite of p must be false.
+a. the fact that a statement p is true is taken to imply that the opposite of p must be false.
 b. the fact that we cannot prove a statement p to be true is
 taken to imply that p is false.
 c. a conclusion p is disregarded because the person who stated it is ignorant.
+
 6. Consider the argument “I don’t support the President’s tax plan because I don’t trust his motives.” What is the conclusion of this argument?
 a. I don’t trust his motives.
-b. I don’t support the President’s tax plan. c. The President is not trustworthy.
+b. I don’t support the President’s tax plan. 
+c. The President is not trustworthy.
+
 7. Consider again the argument “I don’t support the President’s tax plan because I don’t trust his motives.” This argument is an example of
 a. a well-reasoned, logical argument.
 b. an argument that uses the fallacy of personal attack.
 c. an argument that uses the fallacy of appeal to emotion.
+
 8. Consider the argument “Your lack of enthusiasm for soccer proves that you are not a sports fan.” This argument is an example of
 a. a well-reasoned, logical argument.
 b. an argument that uses the fallacy of diversion.
 c. an argument that uses the fallacy of limited choice.
+
 9. Suppose that the fact that an event A occurs before event B is used to conclude that A caused B. This is an example of
 a. a well-reasoned, logical argument.
-b. an argument that uses the fallacy of false cause. c. hasty generalization.
+b. an argument that uses the fallacy of false cause. 
+c. hasty generalization.
+
 10. When we speak of a straw man in an argument, we mean
 a. a misrepresentation of someone else’s idea or belief.
 b. a person who has not used good logic.
@@ -235,7 +247,7 @@ Senator Peters supports a large tax cut, and Senator Willis supports no tax cut.
 
 实验
 iN your WorLD
-45. Evaluating Media information. Choose a current topic of policy discussion (examples might include gun control, health care, tax policy, or many other topics). Find a website that argues on one side or other of the topic. Evaluate the arguments based on the five steps for evaluating media in- formation given in this unit. Write a short report on the site you visited and your conclusions about the reliability of its information.
+45. Evaluating Media information. Choose a current topic of policy discussion (examples might include gun control, health care, tax policy, or many other topics). Find a website that argues on one side or other of the topic. Evaluate the arguments based on the five steps for evaluating media information given in this unit. Write a short report on the site you visited and your conclusions about the reliability of its information.
 46. Snopes. Visit the Snopes.com website and choose one topic from its list of the “hottest urban legends.” In one or two paragraphs, summarize the legend, whether it is true or false, and why.
 47. FactCheck. Visit the FactCheck.org website, and choose one of its featured stories on recent claims. In one or two para- graphs, summarize the story and its accuracy.
 48. Fallacy Websites. There are many websites devoted to the study of fallacies. Visit one, and choose a fallacy of a type not covered in this unit. Explain the fallacy, and give an example of it.
@@ -243,4 +255,4 @@ iN your WorLD
 50. Fallacies in Advertising. Pick a single night and a single commercial television channel, and analyze the advertisements shown over a one-hour period. Describe how each advertise- ment tries to persuade the viewer, and discuss whether the argu- ment is fallacious. What fraction of the advertisements involve fallacies? Are any fallacy types more common than others?
 51. Fallacies in Politics. Discuss the tactics used by both sides
 in a current or recent political campaign. How much of the campaign is/was based on fallacies? Describe some of the fallacies. Overall, do you believe that fallacies influenced (or will influence) the outcome of the vote?
-52. Personal Fallacies. Describe an instance in which you were per- suaded of something that you later decided was untrue. Explain how you were persuaded and why you later changed your mind. Did you fall victim to any fallacies? If so, how might you prevent the same thing from happening in the future?
+52. Personal Fallacies. Describe an instance in which you were persuaded of something that you later decided was untrue. Explain how you were persuaded and why you later changed your mind. Did you fall victim to any fallacies? If so, how might you prevent the same thing from happening in the future?

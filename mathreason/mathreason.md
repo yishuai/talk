@@ -1,489 +1,981 @@
 class: middle, center
 
-# 量化推理
+# 基于数据的逻辑推理
 
-### 大数据系统基础系统课程
-### 交大附中
+#### 交大附中大数据系统基础系统课程
 
-#### 陈一帅
-##### 北京交通大学电子信息工程学院
+##### 陈一帅
+###### 北京交通大学电子信息工程学院
+###### 2023年5月
 
-2023年5月
+---
+# 什么是量化推理？
 
-## 什么是量化推理？
-
-quantitative reasoning
-quantitative literacy
-
-- 基于量化信息，进行理解和推理
-在大数据时代，已经成为人的素养的关键能力（ literacy ）
-
-## 文化
-
-Mathematics knows no races or geographic boundaries; for mathematics, the cultural world is one country.
-—David Hilbert (1862–1943), mathematician
-
-### 三级语言技巧
-
-- 3 阅读小说和杂志，以及安全规则和设备说明。以正确的格式和标点符号编写报告。在听众面前说得很好
-
-- 4 阅读小说、诗歌、报纸和手册。准备商业信函、摘要和报告。参加小组讨论和辩论。就各种主题即兴发言
-
-- 5 阅读文学作品、书评、科技期刊、财务报告和法律文件。可以撰写社论、演讲和评论
-
-### 三级数学技巧
-
-- 3 理解基本的几何和代数。计算折扣、利息、损益、加价和佣金
-
-- 4 具有真正的定量推理能力。理解逻辑、解决问题、统计和概率的概念以及建模
-
-- 5 精通微积分和统计学。能够处理计量经济学
-
-###
-
-Biochemist 6 6 生物化学家 6 6
-Computer engineer 6 6 计算机工程师 6 6
-Mathematician 6 6 数学家 6 6
-Cardiologist 6 5 心脏病专家 6 5
-Social psychologist 6 5 社会心理学家 6 5
-Lawyer 6 4 律师 6 4
-Tax attorney 6 4 税务律师 6 4
-Newspaper editor 6 4 报纸编辑 6 4
-Accountant 5 5 会计师 5 5
-Personnel manager 5 4 人事经理 5 4
-Corporate president 5 5 公司总裁 5 5
-Weather forecaster 5 5 天气预报员 5 5
-Secondary teacher 5 5 中学教师 5 5
-Elementary teacher 5 4 小学教师 5 4
-Financial analyst 5 5 金融分析师 5 5
-Journalist 5 4 记者 5 4
-Web page designer 5 4 网页设计师 5 4
-Corporate executive 5 5 企业高管 5 5
-Computer sales agent 4 4 电脑销售代理 4 4
-Athlete’s agent 4 4 运动员经纪人 4 4
-Management trainee 4 4 管理培训生 4 4
-Insurance sales agent 4 4 保险销售代理人 4 4
-Retail store manager 4 4 零售店经理 4 4
-Cement mason 3 3 水泥工 3 3
-Poultry farmer 3 3 家禽养殖户 3 3
-Tile setter 3 3 贴砖机 3 3
-Travel agent 3 3 旅行社 3 3
-Janitor 3 2 看门人 3 2
-Short-order cook 3 2 快餐厨师 3 2
-Assembly-line worker 2 2 流水线工人 2 2
-Toll collector 2 2 收费员 2 2
-Laundry worker 1 1 洗衣工 1 1
-
+- 基于数据（量化）信息，理解和推理
+  - quantitative reasoning
+- 大数据时代，关键素养能力（ literacy ）
+  - quantitative literacy
 
 ---
 class: middle, center
+# 数学文化
+
+Mathematics knows no races or geographic boundaries; for mathematics, the cultural world is one country
+
+David Hilbert (1862–1943), mathematician
+
+---
+# 三级语言素养
+
+- 3: 阅读小说和杂志，以及安全规则和设备说明。以正确的格式和标点符号编写报告。在听众面前说得很好
+
+- 4: 阅读小说、诗歌、报纸和手册。准备商业信函、摘要和报告。参加小组讨论和辩论。就各种主题即兴发言
+
+- 5: 阅读文学作品、书评、科技期刊、财务报告和法律文件。可以撰写社论、演讲和评论
+
+---
+# 三级数学素养
+
+- 3: 理解基本的几何和代数。计算折扣、利息、损益、加价和佣金
+
+- 4: 具有真正的定量推理能力。理解逻辑、解决问题、统计和概率的概念以及建模
+
+- 5: 精通微积分和统计学。能够处理计量经济学
+
+---
+# 职业与素养的关系
+
+- Biochemist 6 6 （生物化学家）
+- Computer engineer 6 6 （计算机工程师）
+- Mathematician 6 6 （数学家）
+- Cardiologist 6 5 （心脏病专家）
+- Social psychologist 6 5 （社会心理学家）
+- Lawyer 6 4 （律师）
+
+---
+# 职业与素养的关系
+
+- Tax attorney 6 4 （税务律师）
+- Newspaper editor 6 4 （报纸编辑）
+- Accountant 5 5 （会计师）
+- Personnel manager 5 4 （人事经理）
+- Corporate president 5 5 （公司总裁）
+- Weather forecaster 5 5 （天气预报员）
+
+---
+# 职业与素养的关系
+
+- Secondary teacher 5 5 （中学教师）
+- Elementary teacher 5 4 （小学教师）
+- Financial analyst 5 5 （金融分析师）
+- Journalist 5 4 （记者）
+- Web page designer 5 4 （网页设计师）
+- Corporate executive 5 5 （企业高管）
+
+---
+# 职业与素养的关系
+
+- Computer sales agent 4 4 （电脑销售代理）
+- Athlete’s agent 4 4 （运动员经纪人）
+- Management trainee 4 4 （管理培训生）
+- Insurance sales agent 4 4 （保险销售代理人）
+- Retail store manager 4 4 （零售店经理）
+- Cement mason 3 3 （水泥工）
+
+---
+# 职业与素养的关系
+
+- Poultry farmer 3 3 （家禽养殖户）
+- Tile setter 3 3 （贴砖机）
+- Travel agent 3 3 （旅行社）
+- Janitor 3 2 （看门人）
+- Short-order cook 3 2 （快餐厨师）
+- Assembly-line worker 2 2 （流水线工人）
+- Toll collector 2 2 （收费员）
+- Laundry worker 1 1 （洗衣工）
+
+---
 # 课程目标
 
-- 将基本的数学技能（其中大部分你已经具备）与以批判和分析的方式处理问题的能力结合起来
-
-- 研究逻辑思想，培养批判性思考能力
-
-- Mathematics is just logic with numbers attached. （Marilyn vos Savant, Author）
+- 利用基本的数学技能（其中大部分你已经具备）
+- 进行大数据分析
+- 以批判和分析的方式理解和研究问题
+- 培养逻辑思想、批判性思考能力
 
 ---
 class: middle, center
+# 第一讲：逻辑
+
+## Mathematics is just logic with numbers attached. 
+
+Marilyn vos Savant, Author
+
+---
 # 媒体时代
 
-- 物理的：书籍、报纸、杂志和广告牌
-- 电子的：互联网、平板电脑和智能手机、电视、电影
+- 物理媒体：书籍、报纸、杂志和广告牌
+- 电子媒体：互联网、平板电脑和智能手机、电视、电影
 - 我们依赖这些媒体来源获取信息，形成观点和信念
 
 ---
-class: middle, center
 # 挑战
 
 - 媒体中的许多信息不准确、有偏见
-- 其目的是让我们“相信”某些事，这些事可能真实，也可能不真实
+- 其目的是让我们“相信”某些事
+- 这些事可能真实，也可能不真实
+
+---
+# 逻辑
+
+- 了解人们试图操纵我们观点的方式
+- 这是“基于数据的逻辑推理”的基础
 
 ---
 class: middle, center
-# 应对 
 
-- 了解人们试图操纵你的观点的方式
-- 奠定本课程讲要学习的“定量推理”的基础
+# 吵架还是争论？
 
----
-class: middle, center
+## People generally quarrel because they cannot argue.
 
-- People generally quarrel because they cannot argue.
-  - G. K. Chesterton (1874–1936), English author
+G. K. Chesterton (1874–1936), English author
 
-- quarrel：吵架
+quarrel：吵架
 
 ---
-class: middle, center
-# 现实
+# 没有逻辑的争论
 
-- - 如果你阅读网络上许多新闻文章后的评论，你会经常看到激烈的讨论，可能看起来很像两个同学之间的“争论”
+- 网上许多激烈“争论”的特点
 - 示例
-  - - 过量的碳排放是不道德的
-  - - 不，不是
-  - - 是的！它会让气候变暖
-  - - 你都不懂气候是如何变暖的
-  - 我知道的比你知道的多！
-  - 我不能和你谈；你简直就是一个白痴！
+  - A：过量的碳排放是不道德的
+  - B：不，不是
+  - A：是的！它会让气候变暖
+  - B：你都不懂气候是如何变暖的
+  - A：我知道的比你知道的多！
+  - B：我不能和你谈。你简直就是一个白痴！
 
 ---
-class: middle, center
-# 问题
+# 这种争论的问题
 
-- 这种争论很普遍，但收效甚微
-- 它不会让任何一方洞悉对方的想法，也不太可能改变任何一方的观点
+- 很典型，但效果一般
+- 不会让任何一方理解对方的想法
+- 也不太可能改变任何一方的观点
 
 ---
-class: middle, center
-# 更好的争论方式
+# 有逻辑的争论
 
 - 使用逻辑（Logic）
-- 学习推理的方法和原则
-- 有逻辑的争论可能仍然不会改变任何一方的立场
-- 但它可以帮助我们相互理解
+- 学习推理方法和原则
+- 可能仍不会改变任何一方的立场
+- 但可以帮助我们相互理解
 
 ---
-class: middle, center
-# 逻辑论证基本概念
+# 逻辑基本概念
 
-- “论证”（Argument）：推理或思考的过程
-- “前提”（Premise）：支持结论（conclusion）的事实或假设（证据）
-- “谬误”（Fallacy）：一种“欺骗”或“诡计”式的论证
-  - 它采取的论证方式，在仔细分析后，会发现并不合理
+- “论证”（Argument）
+  - 推理或思考的过程
+- “前提”（Premise）
+  - 支持结论（conclusion）的事实或假设（证据）
+- “谬误”（Fallacy）
+  - 一种“欺骗”或“诡计”式的论证
+  - 它采取的论证方式，仔细分析后，会发现不合理
 
 ---
-class: middle, center
-# 广告
+# 广告充满“谬误”
 
-- 广告充满“谬误”
-- 因为通常没有很好的理由说明你应该购买某个特定品牌或产品
+- 因为通常没有很好的理由说明你应该购买某个品牌或产品
 - 但它们必须奏效
-- 因为企业每年花费上万亿元试图让你买东西
+- 企业每年花上万亿元做广告，让我们买东西
 
 ---
-class: middle, center
-# 常见谬误的识别
+# 谬误的识别
 
 - 媒体中的谬误如此普遍，几乎不可能避免
+  - 识别它们很重要
 - 谬论尽管存在逻辑错误，但通常听起来很有说服力
 - 因为广告公司花费了数十亿元研究如何说服我们购买产品或支持特定观点
 
 ---
-class: middle, center
-# 谬误的识别
-- 谬误如此普遍，所以识别它们很重要
-- 一些最常见谬误的分析
+# 常见谬误
+
+- 诉诸流行
 
 ---
-class: middle, center
-# 诉诸流行（）
+# 诉诸流行
+
+- Appeal to Popularity
 
 - “长城汽车制造了世界上最好的皮卡车。开长城皮卡的人比开任何其他轻型卡车的人都多。”
 
 - 分析
   - 第一步：识别哪些陈述句是“前提”（证据），哪些是“结论”
-- 论点：长城制造了世界上最好的皮卡
-- 证据：驾驶长城皮卡的人比驾驶其他任何轻型卡车的人都多
-
----
-class: middle, center
-# 诉诸流行
+  - 论点：长城制造了世界上最好的皮卡
+  - 证据：驾驶长城皮卡的人比驾驶其他任何轻型卡车的人都多
 
 - 许多人相信 p 是真的；因此 ... p 为真
 
 ---
-class: middle, center
-# 练习 11
+# 练习
+
+(Appeal to popularity) 
+
+Apple’s iPhone outsells all other smart phones, so it must be the best smart phone on the market.
 
 ---
-class: middle, center
-# 错误的原因
+# 练习
 
+（呼吁人气）
+
+Apple 的 iPhone 销量超过所有其他智能手机，因此它一定是市场上最好的智能手机。
+
+---
+# 虚假的原因
+
+- False Cause
 - “我把水晶石放在额头上，五分钟后我的头痛就消失了。是水晶让我的头痛消失了。”
 - 分析
   - 一件事（额头上放水晶）先于另一件事（头痛消失）发生，
   - 但并没有证明它们之间有任何联系。也就是说，我们不能断定水晶使头痛消失
-- A先于B；因此A导致了B
+- A 先于 B；因此 A 导致了 B
 
 ---
-class: middle, center
-# 练习 12
+# 练习
+
+(False cause) 
+
+I became sick just hours after eating at Burger Hut, so its food must have made me sick.
 
 ---
-class: middle, center
+# 练习
+
+（错误的原因）
+
+在 Burger Hut 吃了几个小时后我就生病了，所以它的食物一定让我生病了。
+
+---
 # 诉诸未知
 
-- “科学家们还没有发现任何外星人访问地球的具体证据。所以，
+- Appeal to ignorance
+- “科学家们还没有发现任何外星人访问地球的具体证据。所以
 外星人不存在”
 - 分析
   - 前提：没有证据表明外星人访问过地球
   - 结论：外星人不存在
-- 利用缺乏对结论真实性的知识，得出相反的结论
+- 利用对结论的未知，得出相反的结论
+  - 没有证据表明 p 是真的；因此 p 为假
 - 缺乏证据并不是“否命题”的证据
-- 没有证据表明 p 是真的；因此 p 为假
 
 ---
-class: middle, center
-# 练习 13.
+# 练习
+
+(Appeal to ignorance) 
+
+Decades of searching have not revealed life on other planets, so life in the universe must be confined to Earth.
 
 ---
-class: middle, center
+# 练习
+
+（呼吁无知）
+
+数十年的搜寻并没有发现其他行星上的生命，因此宇宙中的生命必定局限在地球上。
+
+---
 # 讨论
 
 - 一个人被判无罪，能证明这个人无辜吗？为什么？
-- 为什么我们的法律要求检察官证明有罪，而不是要求被告（嫌疑人）证明无罪？
+- 为什么法律要求检察官证明有罪，而不要求被告（嫌疑人）证明无罪？
 - 这个想法与诉诸无知的谬误有什么关系？
 
 ---
-class: middle, center
 # 草率概括
 
-- “高压电线所在的街道上发生了两起儿童白血病病例。电源线一定是这些疾病的原因。”
+- Hasty generalization
+- “高压电线所在街道发生了两起儿童白血病病例。电源线一定是这些疾病的原因。”
 - 分析
   - 前提是两个白血病病例，但是两个病例都不足以建立一个规律，更不能断定是电源线引起的病症
-- 草率概括：根据数量不足或未充分分析的案例得出结论
+- 根据数量不足或未充分分析的案例得出结论
   - 要证明电力线与白血病之间存在联系，必须用多得多的证据来证实。（事实上​​，数十年的研究并未发现电线与疾病之间存在关联。）
 - A和B连接了一次或几次；因此 A 导致 B（反之亦然）
 
 ---
-class: middle, center
-# 练习 14.
+# 练习
+
+(Hasty generalization) 
+
+I saw three people use food stamps to buy expensive steaks, so abuse of food stamps must be widespread.
 
 ---
-class: middle, center
+# 练习
+
+（仓促概括）
+
+我看到三个人用食品券购买昂贵的牛排，所以食品券的滥用一定很普遍。
+
+---
 # 有限选择
 
-- “你不支持班主任，所以你不爱我们班。”
+- Limited Choice
+- “你不支持班长，所以你不爱我们班。”
 - 分析
-  - 该论点表明只有两种类型的同学：支持班主任的爱班级的同学，不支持班主任的不爱班级的同学
-  - 但实际上还有很多其他的可能性，比如爱学校但不喜欢某位老师
+  - 该论点表明只有两种类型的同学：支持班长的爱班级的同学，不支持班长的不爱班级的同学
+  - 但实际上还有很多其他的可能性，比如爱班级但不爱班长
 - 这种谬误被称为有限选择（或虚假的困境），因为它人为地排除了其它可以考虑的选择
 
 ---
-class: middle, center
 # 有限选择
-- 有限选择也会出现在“你戒烟了吗？”之类的问题中
-- 是和否的答案都暗示您过去曾吸烟，所以该问题排除了您从不吸烟的可能性
+
+- 也会出现在“你戒烟了吗？”之类的问题中
+  - 是和否的答案都暗示您过去曾吸烟
+  - 该问题排除了您从不吸烟的可能性
 - 在法律诉讼中，这类问题是不允许的，因为它们试图“引导证人”
 - 这种谬误的另一种简单而常见的形式是“你错了，所以我一定是对的”
 - p 是假的；因此...只有 q 可以为真
 
 ---
-class: middle, center
-# 练习 15.
+# 练习
+
+(Limited choice) 
+
+He refused to testify by invoking his Fifth Amendment rights, so he must be guilty.
 
 ---
-class: middle, center
-# 诉诸情感（Appeal to Emotion）
+# 练习
 
-- 在汽车轮胎广告中，一张婴儿的照片上写着“因为你的轮胎承受了太多的压力”
+（选择有限）
+
+他拒绝援引他的第五修正案权利作证，因此他必须有罪。
+
+---
+# 诉诸情感
+
+- Appeal to Emotion
+- 汽车轮胎广告，一张婴儿的照片，写着“因为你的轮胎承受了太多的压力”
 - 分析
   - 前提：你爱你的孩子
-  - 结论：你应该买我这个好轮胎
+  - 结论：你应该买我这个轮胎
 - 广告商希望你对婴儿的爱会让你想买他们的轮胎
   - 唤起情绪反应，作为说服的工具。这是诉诸情绪的谬误
 - p与积极的情绪反应相关；因此... p 为真
 
 ---
-class: middle, center
-# 诉诸后果
+# 诉诸情感
 - 有时诉诸的是负面情绪
-- 例如，竞选学生会主席，声明如果对手当选，同学们的福利会减少
-- 试图说服你相信选择另一位候选人将导致你不喜欢的后果
-- 这种谬误有时被称为诉诸后果（appeal to force）
+- 例如，竞选班长，声明：如果对手当选，同学们的福利会减少
+  - 试图说服你相信，选择另一位候选人，将导致不喜欢的后果
+- 这种谬误有时被称为诉诸强力（appeal to force）
 
 ---
-class: middle, center
-# 练习 16
+# 练习
+
+(Appeal to emotion) 
+
+Thousands of unarmed people, many of them children, are killed by firearms every year. It’s time we ban the sale of guns.
 
 ---
-class: middle, center
+# 练习
+
+（诉诸情感）
+
+每年有数以千计的手无寸铁的人死于枪支，其中许多是儿童。是时候禁止销售枪支了。
+
+---
 # 人身攻击
 
-- A：你应该戒酒，因为它会影响你的成绩，酒后驾车时会危及他人，还会破坏你与家人的关系
-- B：我看到你自己有时喝多了！
+- Personal attack
+  - A：你应该戒酒，因为它会影响你的成绩，酒后驾车时会危及他人，还会破坏你与家人的关系
+  - B：你自己有时也喝得很多！
 - 分析
   - A 的论点有充分理由，前提为结论提供了强有力支持
   - B 驳斥了这一论点，指出 A 有时自己喝得太多了
-  - 即使 B 的说法是正确的，它也与 A 的观点无关。 B 对 A 进行人身攻击，而不是逻辑争论，因此我们将这种谬误称为人身攻击。
-  - 在拉丁语中，它被称为 ad hominem，意思是“针对个人”
+  - 即使 B 的说法是正确的，它也与 A 的观点无关
+  - B 对 A 进行人身攻击，而不是逻辑争论
 - 我对声称 p 的人或团体有意见 ... p 不是真的
+  - 拉丁语 ad hominem，意思是“针对个人”
 
 ---
-class: middle, center
 # 人身攻击
 - 人身攻击的谬误也适用于集体
 - 例如：“这项提案将带来环境灾难，因为它的发起人收到了石油公司的资助。”
-- 这个论证是错误的
 - 它没有挑战提案，只质疑资助人的动机
+- 这个论证不成立
 
 ---
-class: middle, center
-# 练习 17
+# 练习
+
+(Personal attack) 
+
+Senator Smith’s bill on agricultural policy is a sham, because he is supported by companies that sell genetically modified crop seeds.
 
 ---
-class: middle, center
-# 思考
+# 练习
 
-- 一个人（或群体）的性格、环境和动机有时在逻辑上与论点相关
-- 这就是为什么刑事案件中的证人经常被问到关于他们个人生活的问题
+（人身攻击）
+
+史密斯参议员关于农业政策的法案是一个骗局，因为他得到了销售转基因作物种子的公司的支持。
+
+---
+# 思考（人身攻击）
+
+- 为什么刑事案件中的证人经常被问到关于他们个人生活的问题
+  - 一个人（或群体）的性格、环境和动机有时在逻辑上与论点相关
 - 如果你是一名法官，你会如何决定何时允许此类问题？
 
 ---
-class: middle, center
-# 循环推理：Circular reasoning
+# 循环推理
 
+- Circular reasoning
 - “社会有义务提供医疗保险，因为医疗保健是公民的权利。”
 - 分析 
-  - 前提和结论本质上说的是同一件事
-  - 社会义务通常基于公认权利的定义。
-  - 因此，该论点存在循环推理
-- p 是真的。 用不同的话，反复说
+  - 前提和结论本质上是同一件事
+  - 社会义务通常基于公认权利的定义
+- 循环推理
+  - p 是真的。 用不同的话，反复说
 
 ---
-class: middle, center
-# 练习 18
+# 练习
+
+(Circular reasoning) 
+
+Illegal immigration is against the law, so illegal immigrants are criminals.
 
 ---
-class: middle, center
-# 转移（红鲱鱼）：Diversion (red herring)
+# 练习
 
-- “我们不应该继续资助克隆研究，因为涉及的伦理问题太多了。这种研究是关乎道德的，我们不能涉及太多道德问题。”
+（循环推理）
+
+非法移民是违法的，所以非法移民是罪犯。
+
+---
+# 转移视线（红鲱鱼）
+
+- Diversion (red herring)
+- “我们不应该继续资助克隆研究，因为这种研究是关乎道德的，我们不能涉及太多道德问题。”
 - 分析 
-  - 争论：我们不应该继续资助克隆研究
+  - 争论：应不应该继续资助克隆研究
   - 然而，讨论都是关于道德的
-  - 这是转移谬误
-- 它通过关注另一个问题（伦理）来转移对真正问题（克隆研究的资金）的注意力
-- p 与 q 有关，我对 q 有疑义；所以 ... p 是真实的
+- 通过关注另一个问题（道德）来转移对真正问题（资助克隆研究）的注意力
+  - p 与 q 有关，我对 q 有疑义；所以 ... p 是真实的
+- 有时被称为“转移注意力”
 
 ---
-class: middle, center
-# 转移谬误
+# 转移视线（红鲱鱼）
 
-- 有时被称为“转移注意力”
 - 鲱鱼是一种在腐烂时会变红的鱼
 - 19 世纪，英国逃犯发现通过在逃跑路线上擦红鲱鱼，可以转移猎犬的跟踪
-- 人身攻击也常用作转移注意力
+- 注意：人身攻击也常用来转移注意力
 
 ---
-class: middle, center
-# 练习 19
+# 练习
+
+(Diversion) 
+
+Good grades are needed to get into college, and a college diploma is necessary for a good career. Therefore, attendance should count in high school grades.
 
 ---
-class: middle, center
+# 练习
+
+（导流）
+
+上大学需要好成绩，好的职业需要大学文凭。因此，出勤率应计入高中成绩。
+
+---
 # 稻草人
 
 - 同学 A：放开“路边摆摊”，可以减少人们经营成本，促进大众就业
 - 同学 B：这位同学不认为“路边摆摊”有什么问题，但我认为 ...
 - 分析
-  - 同学 A 并没有说路边摆摊“没有问题”
-  - 她的提议是要解决另一个问题——大众就业
+  - 同学 A 的提议是要解决大众就业
   - 她并没有说她对路边摆摊的一般看法
   - 同学 B 歪曲了同学 A 的观点
+  - 她立了一个稻草人，用它代表和同学 A 的思想有关的一个不合理的表现
 - 这种扭曲他人言论或提议的争论被称为“稻草人”
-  - 同学 B 立了一个稻草人，用它代表和同学 A 的思想有关的一个不合理的表现
 
 ---
-class: middle, center
 # 稻草人
 - 稻草人类似于转移注意力
 - 主要区别在于
-  - 转移注意力，转移过去的是一个不相关的问题
-  - 稻草人，转移过去的是真实问题的扭曲版本
+  - 转移注意力，转移到一个不相关的问题
+  - 稻草人，转移到真实问题的一个扭曲的版本
 - 我有一个关于 p 的扭曲版本的论点；所以 ... 我希望愚弄你，让你相信我关于 p 的真实版本的论点
 
 ---
-class: middle, center
-# 练习 20
+# 练习
+
+(Straw man) 
+
+The mayor wants to raise taxes to fund social programs, so she must not believe in the value of hard work.
 
 ---
-class: middle, center
+# 练习
+
+（稻草人）
+
+市长想要提高税收来资助社会项目，所以她一定不相信努力工作的价值。
+
+---
+# 小问答
+
+1. A logical argument always includes
+- a. at least one premise and one conclusion. 
+- b. at least one premise and one fallacy.
+- c. at least one fallacy and one conclusion.
+
+---
+# 小问答
+1. 逻辑论证总是包括
+- A。至少一个前提和一个结论。
+- b。至少一个前提和一个谬误。
+- C。至少一个谬误和一个结论。
+
+---
+# 小问答
+
+2. A fallacy is
+- a. a statement that is untrue. 
+- b. a heated argument.
+- c. a deceptive argument.
+
+---
+# 小问答
+2. 一个谬误是
+- A。一个不真实的陈述。
+- b。激烈的争论
+- C。欺骗性的论点
+
+---
+# 小问答
+
+3. Which of the following could not qualify as a logical argument?
+- a. a series of statements in which the conclusion comes before the premises
+- b. a list of premises that do not lead to a conclusion
+- c. a series of statements that generate heated debate
+
+---
+# 小问答
+3. 以下哪项不符合逻辑论证？
+- A。结论在前提之前的一系列陈述
+- b。不得出结论的前提清单
+- C。引起激烈争论的一系列声明
+
+---
+# 小问答
+
+4. An argument in which the conclusion essentially restates the premise is an example of
+- a. circular reasoning.
+- b. limited choice. 
+- c. logic.
+
+---
+# 小问答
+4. 结论基本上重述前提的论证是一个例子
+- A。循环推理。
+- b。选择有限。
+- C。逻辑。
+
+---
+# 小问答
+
+5. The fallacy of appeal to ignorance occurs when
+- a. the fact that a statement p is true is taken to imply that the opposite of p must be false.
+- b. the fact that we cannot prove a statement p to be true is
+taken to imply that p is false.
+- c. a conclusion p is disregarded because the person who stated it is ignorant.
+---
+# 小问答
+5.诉诸无知的谬误发生在
+-A。陈述 p 为真这一事实被认为意味着 p 的反面必定为假。
+- b。我们不能证明陈述 p 为真的事实是
+被 认为暗示 p 是假的。
+- C。结论 p 被忽视是因为提出它的人是无知的。
+
+---
+# 小问答
+
+6. Consider the argument “I don’t support the President’s tax plan because I don’t trust his motives.” What is the conclusion of this argument?
+- a. I don’t trust his motives.
+- b. I don’t support the President’s tax plan. 
+- c. The President is not trustworthy.
+
+---
+# 小问答
+6. 考虑“我不支持总统的税收计划，因为我不相信他的动机”这一论点。这个论证的结论是什么？
+- A。我不相信他的动机。
+- b。我不支持总统的税收计划。
+- C。总统不值得信任。
+
+---
+# 小问答
+
+7. Consider again the argument “I don’t support the President’s tax plan because I don’t trust his motives.” This argument is an example of
+- a. a well-reasoned, logical argument.
+- b. an argument that uses the fallacy of personal attack.
+- c. an argument that uses the fallacy of appeal to emotion.
+
+---
+# 小问答
+7. 再次考虑“我不支持总统的税收计划，因为我不相信他的动机”这一论点。这个论点是一个例子
+- A。一个有充分理由的，合乎逻辑的论点。
+- b。一个使用人身攻击谬误的论点。
+- C。一个使用诉诸情感谬误的论证。
+
+---
+# 小问答
+
+8. Consider the argument “Your lack of enthusiasm for soccer proves that you are not a sports fan.” This argument is an example of
+- a. a well-reasoned, logical argument.
+- b. an argument that uses the fallacy of diversion.
+- c. an argument that uses the fallacy of limited choice.
+
+---
+# 小问答
+8. 考虑一下“你对足球缺乏热情证明你不是体育迷”这个论点。这个论点是一个例子
+- A。一个有充分理由的，合乎逻辑的论点。
+- b。一个使用转移谬误的论点。
+- C。一个使用有限选择谬误的论证。
+
+---
+# 小问答
+
+9. Suppose that the fact that an event A occurs before event B is used to conclude that A caused - B. This is an example of
+- a. a well-reasoned, logical argument.
+- b. an argument that uses the fallacy of false cause. 
+- c. hasty generalization.
+
+---
+# 小问答
+9. 假设事件 A 在事件 B 之前发生的事实被用来推断 A 导致了 -B。这是一个例子
+- A。一个有充分理由的，合乎逻辑的论点。
+- b。一个使用错误原因谬误的论证。
+- C。仓促概括。
+
+---
+# 小问答
+
+10. When we speak of a straw man in an argument, we mean
+- a. a misrepresentation of someone else’s idea or belief.
+- b. a person who has not used good logic.
+- c. an argument so weak that it is as if it were made of straw.
+
+---
+# 小问答
+10. 当我们在争论中提到稻草人时，我们的意思是
+- A。对他人的想法或信念的歪曲。
+- b。一个没有使用好的逻辑的人。
+- C。一个论点如此薄弱，以至于它就像是用稻草制成的。
+
+---
+# 应用 1
+
+- Recognizing Fallacies
+- Identify the premise(s) and conclusion
+- Explain why the argument is deceptive
+- If possible, identify the type of fallacy it represents
+
+---
+# 应用 1
+
+- 认识谬误
+- 确定前提和结论
+- 解释为什么这个论点具有欺骗性
+- 如果可能，确定它代表的谬误类型
+
+---
+# 应用 2
+
+Obesity has increased steadily, as has the sale of video games. It follows that video games are compromising our health.
+
+---
+# 应用 2
+
+肥胖人数稳步上升，电子游戏的销量也是如此。由此可见，电子游戏正在损害我们的健康。
+
+---
+# 应用 3
+
+All the mayors of my hometown have been men, which shows that men are better qualified for high office than women.
+
+---
+# 应用 3
+
+我家乡的市长都是男性，可见男性比女性更适合担任高级职务。
+
+---
+# 应用 4
+
+My father tells me that I should exercise daily. But he never exer- cised when he was young, so I see no need to follow his advice.
+
+---
+# 应用 4
+
+我父亲告诉我，我应该每天锻炼。但是他年轻的时候从来不锻炼，所以我觉得没有必要听从他的建议。
+
+---
+# 应用 5
+
+My baby was vaccinated and later developed autism, which is why I believe that vaccines cause autism.
+
+---
+# 应用 5
+
+我的孩子接种了疫苗，后来患上了自闭症，这就是为什么我认为疫苗会导致自闭症。
+
+---
+# 应用 6
+
+Everyone loves Shakespeare, because his plays have been read for many centuries.
+
+---
+# 应用 6
+
+每个人都喜欢莎士比亚，因为他的戏剧已经被阅读了多个世纪。
+
+---
+# 应用 7
+
+Claims that GMO foods are unsafe are ridiculous, as I’ve never heard of anyone getting sick from them.
+
+---
+# 应用 7
+
+声称转基因食品不安全是荒谬的，因为我从未听说过有人因转基因食品而生病。
+
+---
+# 应用 8
+
+I will not give money to the earthquake relief effort. After I last gave to a charity, an audit showed that most of the money was used to pay its administrators in the front office.
+
+---
+# 应用 8
+
+我不会给抗震救灾钱。在我上次捐给慈善机构之后，一项审计显示大部分钱都用来支付其前台的管理人员。
+
+---
+# 应用 9
+
+My three friends who drink wine have never had heart attacks. My two friends who have had heart attacks are non-drinkers. Drinking wine is clearly a good therapy.
+
+---
+# 应用 9
+
+我的三个喝酒的朋友从来没有心脏病发作过。我的两个心脏病发作的朋友都不喝酒。喝酒显然是一种很好的治疗方法。
+
+---
+# 应用 10
+
+My little boy loves dolls and my little girl loves trucks, so there’s no truth to the claim that boys are more interested in mechanical toys while girls prefer maternal toys.
+
+---
+# 应用 10
+
+我的小男孩喜欢洋娃娃，我的小女孩喜欢卡车，所以说男孩更喜欢机械玩具而女孩更喜欢母性玩具的说法是不正确的。
+
+---
+# 其它谬误 1
+
+- Fallacy of division
+  - Premise: X has some property.
+  - Conclusion: All things or people that belong to X must have the same property.
+- Example:
+  - Americans use more gasoline than Europeans, so Jake, who is an American, must use more gasoline than Europeans.
+
+---
+# 其它谬误 1
+
+- 除法谬误
+  - 前提：X 有一些属性。
+  - 结论：属于X的所有事物或人必须具有相同的属性。
+- 例子：
+  - 美国人比欧洲人用更多的汽油，所以杰克，一个美国人，肯定比欧洲人用更多的汽油。
+
+---
+# 其它谬误 2
+
+- Gambler’s fallacy
+  - Premise: X has been happening more than it should. 
+  - Conclusion: X will come to an end soon.
+- Example:
+  - It has rained for 10 days, which is unusual around here. Tomorrow will be sunny.
+
+---
+# 其它谬误 2
+
+- 赌徒谬误
+  - 前提：X 发生的次数超过了它应该发生的次数。
+  - 结论：X 即将结束。
+- 例子：
+  - 下了 10 天的雨，这在这附近很不寻常。明天会是晴天。
+
+---
+# 其它谬误 3
+- The slippery slope fallacy
+  - Premise: X has occurred and is related to Y.
+  - Conclusion: Y will inevitably occur.
+- Example:
+  - America has sent troops to three countries recently. Before you know it, we will have troops everywhere.
+
+---
+# 其它谬误 3
+- The slippery slope fallacy
+- 前提：X 已经发生并且与 Y 相关。
+  - 结论：Y 不可避免地会出现。
+- 例子：
+  - 美国最近向三个国家派兵。在你知道之前，我们将到处都有军队。
+
+---
+# 其它谬误 4
+- The middle ground fallacy
+  - Premise: X and Y are two extreme positions on a question. 
+  - Conclusion: Z, which lies between X and Y, must be correct. 
+- Example:
+  - Senator Peters supports a large tax cut, and Senator Willis supports no tax cut. That means a small tax cut must be best.
+
+---
+# 其它谬误 4
+- The middle ground fallacy
+- 前提：X 和 Y 是一个问题的两个极端位置。
+  - 结论：位于 X 和 Y 之间的 Z 一定是正确的。
+- 例子：
+  - 参议员彼得斯支持大幅减税，参议员威利斯支持不减税。这意味着小幅减税一定是最好的。
+
+---
 # 评估媒体信息的方法
 
 - 上述谬误只是个人、团体和公司为塑造你的观点而使用的众多策略中的一小部分
 - 没有万无一失的方法可以确保特定媒体信息的可靠性
 - 一些指南，可能会有所帮助
-- 我们后面会学习如何基于大数据的工具，来按照下面的标准，评估定量信息
+  - 后面会学习如何基于大数据，实现这些步骤
 
 ---
-class: middle, center
 # 评估媒体信息的五个步骤
 
-1. 考虑信源。信息来源是否清楚？消息来源在这个问题上是否可信？
-2. 检查日期。信息是什么时候写的？它现在仍然相关，还是已经过时？
-3. 验证准确性。有没有其他信源？有充分理由相信它是准确的吗？它包含任何让你怀疑的东西吗？
-4. 注意隐藏的议程（agenda）。信息是否公平客观地呈现，是否被操纵以服务于某些特定或隐藏的议程？
-5. 从更高的角度看（do not miss the big picture）。即使一条媒体信息通过了上述所有测试，退一步，从更高的角度思考，它是否真的有意义？例如，它是否与您认为正确的其他事情有冲突，如果有，您如何解决它们之间的冲突？
+- 考虑信源
+  - 信息来源是否清楚？消息来源在这个问题上是否可信？
+- 检查日期
+  - 信息是什么时候写的？它现在仍然相关，还是已经过时？
+- 验证准确性
+  - 有没有其他信源？有充分理由相信它是准确的吗？它包含任何让你怀疑的东西吗？
 
 ---
-class: middle, center
-# 示例：
+# 评估媒体信息的五个步骤
 
-- 评估下面的消息：“8 月 27 日，火星会像满月那么大，那么亮。不要错过它，因为今天活着的人再也不会看到它了。”
+- 注意隐藏的议程（agenda）
+  - 信息是否公平客观地呈现，是否被操纵以服务于某些特定或隐藏的议程？
+- 从更高的角度看（do not miss the big picture）
+  - 即使一条媒体信息通过了上述所有测试，退一步，从更高的角度思考，它是否真的有意义？例如，它是否与您认为正确的其他事情有冲突，如果有，您如何解决它们之间的冲突？
+
+---
+# 示例
+
+- 我们看到这样一个消息：
+  - “8 月 27 日，火星会像满月那么大，那么亮。不要错过它，因为今天活着的人再也不会看到它了。”
 - 用评估媒体信息的五个步骤来分析
 
 ---
-class: middle, center
 # 1. 考虑消息来源
 
 - 消息：“8 月 27 日，火星会像满月那么大，那么亮。不要错过它，因为今天活着的人再也不会看到它了。”
 
-- 未给出原始来源，这意味着您无法知道来源是否权威。这应该会让你对这种说法产生怀疑
+- 未给出原始来源，这意味着您无法知道来源是否权威
+- 这应该会让你对这种说法产生怀疑
 
 ---
-class: middle, center
 # 2. 检查日期
 
 - 消息：“8 月 27 日，火星会像满月那么大，那么亮。不要错过它，因为今天活着的人再也不会看到它了。”
 
-- 尽管该声明在引用该事件的 8 月 27 日时听起来很具体，但没有给出年份，因此您无法知道该声明是适用于今年、每一年，还是过去或未来的特定年份。这应该会增加您对它的担忧
+- 尽管该声明在引用该事件的 8 月 27 日时听起来很具体，但没有给出年份，因此您无法知道该声明是适用于今年、每一年，还是过去或未来的特定年份
+- 这应该增加您对它的担忧
 
 ---
-class: middle, center
 # 3. 搜索验证
 
 - 消息：“8 月 27 日，火星会像满月那么大，那么亮。不要错过它，因为今天活着的人再也不会看到它了。”
 
-- 该声明很容易在网上搜索相关信息验证，您会发现许多网站都表明它是不真实的。当然，在相信这些网站之前，您还应该检查它们的有效性。但您会发现一些可靠的来源，例如国家天文台或备受推崇的新闻网站。然后，我们可以得出结论：该断言是错误的。但是无论如何，让我们继续最后两个步骤
+- 该声明很容易在网上搜索相关信息验证，您会发现许多网站都表明它是不真实的。
+- 当然，在相信这些网站之前，您还应该检查它们的有效性。但您会发现一些可靠的来源，例如国家天文台或备受推崇的新闻网站。
+  - 然后，我们可以得出结论：该断言是错误的。但是无论如何，让我们继续最后两个步骤
 
 ---
-class: middle, center
 # 4. 注意隐藏的议程
 
 - 消息：“8 月 27 日，火星会像满月那么大，那么亮。不要错过它，因为今天活着的人再也不会看到它了。”
 
-- 此次没有明显的隐藏议程
-- 这种说法似乎更有可能只是对事实的错误陈述
-- 进一步的研究将表明，这一说法最初出现于 2003 年，当时 8 月 27 日火星离地球的距离比它再次离地球的距离要近 200 年。然而，在我们的天空中，火星仍然远不及满月那么大，那么亮
+- 没有明显的隐藏议程，这种说法似乎更有可能只是对事实的错误陈述
+- 进一步的研究将表明，这一说法最初出现于 2003 年，当时 8 月 27 日火星离地球的距离比它再次离地球的距离要近 200 年
+- 然而，在我们的天空中，火星仍然远不及满月那么大，那么亮
 
 ---
-class: middle, center
-# 5. 从更高的角度看
+# 5. 运用知识，思考其合理性
 
 - 消息：“8 月 27 日，火星会像满月那么大，那么亮。不要错过它，因为今天活着的人再也不会看到它了。”
 
-- 这一步要求我们退后一步，思考这个说法是否有道理
-- 让我们思考：
+- 思考这个说法是否有道理
   - 火星是绕太阳公转的行星，而月球绕地球公转。所以月球总是比火星离我们近得多
   - 即使在离地球最近的地方，火星与地球的距离也是月球与地球的距离的 150 倍左右
   - 然而，火星的直径只有月球的两倍左右
 - 所以，火星在我们的天空中永远不会像满月那样大而明亮
 
 ---
-class: middle, center
 # 练习 21–24
 
 ---
-class: middle, center
-# 一些著名的事实核查网站：
-• 政治事实核查
-        - FactCheck.org，由无党派和非营利性的 Annenberg 公共政策中心支持；
-        - PolitiFact.com，来自坦帕湾时报；
-        - - 《华盛顿邮报》博客 “The Fact Checker”
-- • 对于谣言、都市神话和其他奇怪的说法，Snopes.com 以准确着称
-- • 要检查您通过电子邮件收到的消息的有效性，请尝试 TruthOrFiction.com，该网站由一位以公平和准确著称的个人运营
+# 一些著名的事实核查网站
+- 政治事实核查
+  - FactCheck.org，由无党派和非营利性的 Annenberg 公共政策中心支持；
+  - PolitiFact.com，来自坦帕湾时报；
+  - 《华盛顿邮报》博客 “The Fact Checker”
+- Snopes.com
+  - 对于谣言、都市神话和其他奇怪的说法
+- TruthOrFiction.com
+  - 检查消息有效性，网站由一位以公平和准确著称的个人运营
+
+---
+### 项目 1
+
+Evaluating Media information. Choose a current topic of policy discussion (examples might include gun control, health care, tax policy, or many other topics). Find a website that argues on one side or other of the topic. Evaluate the arguments based on the five steps for evaluating media information given in this unit. Write a short report on the site you visited and your conclusions about the reliability of its information.
+
+---
+### 项目 1
+
+评估媒体信息。选择当前的政策讨论主题（示例可能包括医疗保健、税收政策或许多其他主题）。找到一个在主题的一侧或另一侧争论的网站。根据本单元给出的评估媒体信息的五个步骤评估论点。写一份关于您访问​​过的网站的简短报告以及您对其信息可靠性的结论。
+
+---
+### 项目 2
+
+Fallacy Websites. There are many websites devoted to the study of fallacies. Visit one, and choose a fallacy of a type not covered in this unit. Explain the fallacy, and give an example of it.
+
+---
+### 项目 2
+
+谬论网站。有许多网站专门研究谬误。访问一个，然后选择一个本单元未涵盖的谬误类型。解释谬误，并举例说明。
+
+---
+### 项目 3
+
+Editorial Fallacies. Examine editorials and letters to the edi- tor in your local newspaper. Find at least three examples of fallacies. In each case, describe how the argument is decep- tive. If the fallacy represents one or more of the common types described in this unit, state the type.
+
+---
+### 项目 3
+
+编辑谬误。检查当地报纸上的社论和给编辑的信。找出至少三个谬误的例子。在每种情况下，描述论点如何具有欺骗性。如果谬误代表本单元中描述的一种或多种常见类型，请说明类型。
+
+---
+### 项目 4
+
+Fallacies in Advertising. Pick a single night and a single commercial television channel, and analyze the advertisements shown over a one-hour period. Describe how each advertise- ment tries to persuade the viewer, and discuss whether the argu- ment is fallacious. What fraction of the advertisements involve fallacies? Are any fallacy types more common than others?
+
+---
+### 项目 4
+
+广告中的谬误。选择一个晚上和一个商业电视频道，分析一小时内播放的广告。描述每个广告如何试图说服观众，并讨论该论点是否错误。有多少广告涉及谬论？是否有任何谬误类型比其他谬误类型更常见？
+
+---
+### 项目 6
+
+Personal Fallacies. Describe an instance in which you were persuaded of something that you later decided was untrue. Explain how you were persuaded and why you later changed your mind. Did you fall victim to any fallacies? If so, how might you prevent the same thing from happening in the future?
+
+---
+### 项目 6
+
+个人谬误。描述一个例子，在这个例子中，您被说服了某件事，但您后来认为这是不真实的。解释你是如何被说服的，以及为什么你后来改变了主意。你有没有成为任何谬误的受害者？如果是这样，您如何防止将来发生同样的事情？
 
 <!-- .center[.width-110[![](./figures/zhufeng.png)]] -->
-
