@@ -16,7 +16,7 @@ class: middle, center
 - 大数据时代，关键素养能力（ literacy ）
   - quantitative literacy
 
----
+???
 class: middle, center
 # 数学文化
 
@@ -43,55 +43,63 @@ David Hilbert (1862–1943), mathematician
 - 5: 精通微积分和统计学。能够处理计量经济学
 
 ---
-# 职业与素养的关系
+# 职业与数学素养的关系（6级）
 
 - Biochemist 6 6 （生物化学家）
 - Computer engineer 6 6 （计算机工程师）
 - Mathematician 6 6 （数学家）
-- Cardiologist 6 5 （心脏病专家）
-- Social psychologist 6 5 （社会心理学家）
-- Lawyer 6 4 （律师）
 
 ---
-# 职业与素养的关系
+# 职业与数学素养的关系（5级）
 
-- Tax attorney 6 4 （税务律师）
-- Newspaper editor 6 4 （报纸编辑）
+- Social psychologist 6 5 （社会心理学家）
+- Cardiologist 6 5 （心脏病专家）
 - Accountant 5 5 （会计师）
-- Personnel manager 5 4 （人事经理）
 - Corporate president 5 5 （公司总裁）
 - Weather forecaster 5 5 （天气预报员）
-
----
-# 职业与素养的关系
-
-- Secondary teacher 5 5 （中学教师）
-- Elementary teacher 5 4 （小学教师）
 - Financial analyst 5 5 （金融分析师）
-- Journalist 5 4 （记者）
-- Web page designer 5 4 （网页设计师）
+- Secondary teacher 5 5 （中学教师）
 - Corporate executive 5 5 （企业高管）
 
 ---
-# 职业与素养的关系
+# 职业与数学素养的关系（4级）
+
+- Lawyer 6 4 （律师）
+- Tax attorney 6 4 （税务律师）
+- Newspaper editor 6 4 （报纸编辑）
+- Personnel manager 5 4 （人事经理）
+- Elementary teacher 5 4 （小学教师）
+- Journalist 5 4 （记者）
+- Web page designer 5 4 （网页设计师）
+
+---
+# 职业与数学素养的关系（4级）
 
 - Computer sales agent 4 4 （电脑销售代理）
 - Athlete’s agent 4 4 （运动员经纪人）
 - Management trainee 4 4 （管理培训生）
 - Insurance sales agent 4 4 （保险销售代理人）
 - Retail store manager 4 4 （零售店经理）
-- Cement mason 3 3 （水泥工）
 
 ---
-# 职业与素养的关系
+# 职业与数学素养的关系（3级）
 
+- Cement mason 3 3 （水泥工）
 - Poultry farmer 3 3 （家禽养殖户）
 - Tile setter 3 3 （贴砖机）
 - Travel agent 3 3 （旅行社）
+
+---
+# 职业与数学素养的关系（2级）
+
 - Janitor 3 2 （看门人）
 - Short-order cook 3 2 （快餐厨师）
 - Assembly-line worker 2 2 （流水线工人）
 - Toll collector 2 2 （收费员）
+
+---
+# 职业与数学素养的关系（1级）
+
 - Laundry worker 1 1 （洗衣工）
 
 ---
@@ -144,19 +152,17 @@ quarrel：吵架
 ---
 # 没有逻辑的争论
 
-- 网上许多激烈“争论”的特点
-- 示例
-  - A：过量的碳排放是不道德的
-  - B：不，不是
-  - A：是的！它会让气候变暖
-  - B：你都不懂气候是如何变暖的
-  - A：我知道的比你知道的多！
-  - B：我不能和你谈。你简直就是一个白痴！
+- A：过量的碳排放是不道德的
+- B：不，不是
+- A：是的！它会让气候变暖
+- B：你都不懂气候是如何变暖的
+- A：我知道的比你知道的多！
+- B：我不能和你谈。你简直就是一个白痴！
 
 ---
-# 这种争论的问题
+# 没有逻辑的争论的问题
 
-- 很典型，但效果一般
+- 效果一般
 - 不会让任何一方理解对方的想法
 - 也不太可能改变任何一方的观点
 
@@ -164,7 +170,7 @@ quarrel：吵架
 # 有逻辑的争论
 
 - 使用逻辑（Logic）
-- 学习推理方法和原则
+  - 学习推理方法和原则
 - 可能仍不会改变任何一方的立场
 - 但可以帮助我们相互理解
 
@@ -192,12 +198,21 @@ quarrel：吵架
 - 媒体中的谬误如此普遍，几乎不可能避免
   - 识别它们很重要
 - 谬论尽管存在逻辑错误，但通常听起来很有说服力
-- 因为广告公司花费了数十亿元研究如何说服我们购买产品或支持特定观点
+  - 因为广告公司花费了数十亿元研究如何说服我们购买产品或支持特定观点
 
 ---
-# 常见谬误
+### 常见谬误
 
 - 诉诸流行
+- 虚假原因
+- 诉诸未知
+- 草率概括
+- 有限选择
+- 诉诸情感
+- 人身攻击
+- 循环推理
+- 转移视线
+- 稻草人
 
 ---
 # 诉诸流行
@@ -213,7 +228,7 @@ quarrel：吵架
 
 - 许多人相信 p 是真的；因此 ... p 为真
 
----
+???
 # 练习
 
 (Appeal to popularity) 
@@ -223,12 +238,14 @@ Apple’s iPhone outsells all other smart phones, so it must be the best smart p
 ---
 # 练习
 
-（呼吁人气）
+（诉诸流行）
 
 Apple 的 iPhone 销量超过所有其他智能手机，因此它一定是市场上最好的智能手机。
 
+<!-- 举一个生活中的例子 -->
+
 ---
-# 虚假的原因
+# 虚假原因
 
 - False Cause
 - “我把水晶石放在额头上，五分钟后我的头痛就消失了。是水晶让我的头痛消失了。”
@@ -237,7 +254,7 @@ Apple 的 iPhone 销量超过所有其他智能手机，因此它一定是市场
   - 但并没有证明它们之间有任何联系。也就是说，我们不能断定水晶使头痛消失
 - A 先于 B；因此 A 导致了 B
 
----
+???
 # 练习
 
 (False cause) 
@@ -247,9 +264,11 @@ I became sick just hours after eating at Burger Hut, so its food must have made 
 ---
 # 练习
 
-（错误的原因）
+（虚假原因）
 
 在 Burger Hut 吃了几个小时后我就生病了，所以它的食物一定让我生病了。
+
+<!-- 举一个生活中的例子 -->
 
 ---
 # 诉诸未知
@@ -264,7 +283,7 @@ I became sick just hours after eating at Burger Hut, so its food must have made 
   - 没有证据表明 p 是真的；因此 p 为假
 - 缺乏证据并不是“否命题”的证据
 
----
+???
 # 练习
 
 (Appeal to ignorance) 
@@ -274,9 +293,11 @@ Decades of searching have not revealed life on other planets, so life in the uni
 ---
 # 练习
 
-（呼吁无知）
+（诉诸无知）
 
 数十年的搜寻并没有发现其他行星上的生命，因此宇宙中的生命必定局限在地球上。
+
+<!-- 举一个生活中的例子 -->
 
 ---
 # 讨论
@@ -296,7 +317,7 @@ Decades of searching have not revealed life on other planets, so life in the uni
   - 要证明电力线与白血病之间存在联系，必须用多得多的证据来证实。（事实上​​，数十年的研究并未发现电线与疾病之间存在关联。）
 - A和B连接了一次或几次；因此 A 导致 B（反之亦然）
 
----
+???
 # 练习
 
 (Hasty generalization) 
@@ -306,9 +327,11 @@ I saw three people use food stamps to buy expensive steaks, so abuse of food sta
 ---
 # 练习
 
-（仓促概括）
+（草率概括）
 
-我看到三个人用食品券购买昂贵的牛排，所以食品券的滥用一定很普遍。
+我看到那个乞讨的人拿我给他的钱买昂贵的牛排，所以这些乞讨的人都是骗子。
+
+<!-- 举一个生活中的例子 -->
 
 ---
 # 有限选择
@@ -330,7 +353,7 @@ I saw three people use food stamps to buy expensive steaks, so abuse of food sta
 - 这种谬误的另一种简单而常见的形式是“你错了，所以我一定是对的”
 - p 是假的；因此...只有 q 可以为真
 
----
+???
 # 练习
 
 (Limited choice) 
@@ -340,9 +363,11 @@ He refused to testify by invoking his Fifth Amendment rights, so he must be guil
 ---
 # 练习
 
-（选择有限）
+（有限选择）
 
-他拒绝援引他的第五修正案权利作证，因此他必须有罪。
+他拒绝为自己辩护，因此他一定有罪。
+
+<!-- 举一个生活中的例子 -->
 
 ---
 # 诉诸情感
@@ -363,7 +388,7 @@ He refused to testify by invoking his Fifth Amendment rights, so he must be guil
   - 试图说服你相信，选择另一位候选人，将导致不喜欢的后果
 - 这种谬误有时被称为诉诸强力（appeal to force）
 
----
+???
 # 练习
 
 (Appeal to emotion) 
@@ -375,7 +400,9 @@ Thousands of unarmed people, many of them children, are killed by firearms every
 
 （诉诸情感）
 
-每年有数以千计的手无寸铁的人死于枪支，其中许多是儿童。是时候禁止销售枪支了。
+每年有数以千计的人死于交通事故，其中许多是可爱的儿童。是时候禁止汽车了。
+
+<!-- 举一个生活中的例子 -->
 
 ---
 # 人身攻击
@@ -398,7 +425,7 @@ Thousands of unarmed people, many of them children, are killed by firearms every
 - 它没有挑战提案，只质疑资助人的动机
 - 这个论证不成立
 
----
+???
 # 练习
 
 (Personal attack) 
@@ -410,7 +437,9 @@ Senator Smith’s bill on agricultural policy is a sham, because he is supported
 
 （人身攻击）
 
-史密斯参议员关于农业政策的法案是一个骗局，因为他得到了销售转基因作物种子的公司的支持。
+他的这个提案是一个骗局，因为他得到了销售这个种子的公司的资助。
+
+<!-- 举一个生活中的例子 -->
 
 ---
 # 思考（人身攻击）
@@ -430,7 +459,7 @@ Senator Smith’s bill on agricultural policy is a sham, because he is supported
 - 循环推理
   - p 是真的。 用不同的话，反复说
 
----
+???
 # 练习
 
 (Circular reasoning) 
@@ -443,6 +472,8 @@ Illegal immigration is against the law, so illegal immigrants are criminals.
 （循环推理）
 
 非法移民是违法的，所以非法移民是罪犯。
+
+<!-- 举一个生活中的例子 -->
 
 ---
 # 转移视线（红鲱鱼）
@@ -463,7 +494,7 @@ Illegal immigration is against the law, so illegal immigrants are criminals.
 - 19 世纪，英国逃犯发现通过在逃跑路线上擦红鲱鱼，可以转移猎犬的跟踪
 - 注意：人身攻击也常用来转移注意力
 
----
+???
 # 练习
 
 (Diversion) 
@@ -473,9 +504,11 @@ Good grades are needed to get into college, and a college diploma is necessary f
 ---
 # 练习
 
-（导流）
+（转移视线）
 
-上大学需要好成绩，好的职业需要大学文凭。因此，出勤率应计入高中成绩。
+上大学需要一份好的高中成绩，找到一份好工作需要一个大学文凭。因此，出勤率应计入高中成绩。
+
+<!-- 举一个生活中的例子 -->
 
 ---
 # 稻草人
@@ -497,7 +530,7 @@ Good grades are needed to get into college, and a college diploma is necessary f
   - 稻草人，转移到真实问题的一个扭曲的版本
 - 我有一个关于 p 的扭曲版本的论点；所以 ... 我希望愚弄你，让你相信我关于 p 的真实版本的论点
 
----
+???
 # 练习
 
 (Straw man) 
@@ -509,9 +542,11 @@ The mayor wants to raise taxes to fund social programs, so she must not believe 
 
 （稻草人）
 
-市长想要提高税收来资助社会项目，所以她一定不相信努力工作的价值。
+他想提高失业保险的金额，他一定不相信努力工作的价值。
 
----
+<!-- 举一个生活中的例子 -->
+
+???
 # 小问答
 
 1. A logical argument always includes
@@ -521,12 +556,13 @@ The mayor wants to raise taxes to fund social programs, so she must not believe 
 
 ---
 # 小问答
-1. 逻辑论证总是包括
-- A。至少一个前提和一个结论。
-- b。至少一个前提和一个谬误。
-- C。至少一个谬误和一个结论。
 
----
+1. 一个逻辑论证总是包括
+- A. 至少一个前提和一个结论。
+- B. 至少一个前提和一个谬误。
+- C. 至少一个谬误和一个结论。
+
+???
 # 小问答
 
 2. A fallacy is
@@ -537,11 +573,11 @@ The mayor wants to raise taxes to fund social programs, so she must not believe 
 ---
 # 小问答
 2. 一个谬误是
-- A。一个不真实的陈述。
-- b。激烈的争论
-- C。欺骗性的论点
+- A. 一个不真实的陈述
+- B. 激烈的争论
+- C. 欺骗性的论点
 
----
+???
 # 小问答
 
 3. Which of the following could not qualify as a logical argument?
@@ -549,14 +585,12 @@ The mayor wants to raise taxes to fund social programs, so she must not believe 
 - b. a list of premises that do not lead to a conclusion
 - c. a series of statements that generate heated debate
 
----
 # 小问答
 3. 以下哪项不符合逻辑论证？
-- A。结论在前提之前的一系列陈述
-- b。不得出结论的前提清单
-- C。引起激烈争论的一系列声明
+- A. 结论在前提之前的一系列陈述
+- B. 不得出结论的前提清单
+- C. 引起激烈争论的一系列声明
 
----
 # 小问答
 
 4. An argument in which the conclusion essentially restates the premise is an example of
@@ -566,12 +600,11 @@ The mayor wants to raise taxes to fund social programs, so she must not believe 
 
 ---
 # 小问答
-4. 结论基本上重述前提的论证是一个例子
-- A。循环推理。
-- b。选择有限。
-- C。逻辑。
+4. 结论基本上重述前提的论证是一个
+- A. 循环推理。
+- B. 有限选择。
 
----
+???
 # 小问答
 
 5. The fallacy of appeal to ignorance occurs when
@@ -579,15 +612,15 @@ The mayor wants to raise taxes to fund social programs, so she must not believe 
 - b. the fact that we cannot prove a statement p to be true is
 taken to imply that p is false.
 - c. a conclusion p is disregarded because the person who stated it is ignorant.
----
-# 小问答
-5.诉诸无知的谬误发生在
--A。陈述 p 为真这一事实被认为意味着 p 的反面必定为假。
-- b。我们不能证明陈述 p 为真的事实是
-被 认为暗示 p 是假的。
-- C。结论 p 被忽视是因为提出它的人是无知的。
 
 ---
+# 小问答
+5. 诉诸无知的谬误是以下哪一种情况？
+- A. 陈述 p 为真这一事实，用它来暗示 p 的反面必定为假。
+- B. 我们不能证明陈述 p 为真，因此 p 是假的。
+- C. 结论 p 被忽视，因为提出它的人是无知的。
+
+???
 # 小问答
 
 6. Consider the argument “I don’t support the President’s tax plan because I don’t trust his motives.” What is the conclusion of this argument?
@@ -597,12 +630,12 @@ taken to imply that p is false.
 
 ---
 # 小问答
-6. 考虑“我不支持总统的税收计划，因为我不相信他的动机”这一论点。这个论证的结论是什么？
-- A。我不相信他的动机。
-- b。我不支持总统的税收计划。
-- C。总统不值得信任。
+6. 考虑“我不支持班长的这个提议，因为我不相信他是为大家好”这一论点。这个论证的结论是什么？
+- A. 我不相信他是为大家好。
+- B. 我不支持班长的这个提议。
+- C. 班长不值得信任。
 
----
+???
 # 小问答
 
 7. Consider again the argument “I don’t support the President’s tax plan because I don’t trust his motives.” This argument is an example of
@@ -612,12 +645,12 @@ taken to imply that p is false.
 
 ---
 # 小问答
-7. 再次考虑“我不支持总统的税收计划，因为我不相信他的动机”这一论点。这个论点是一个例子
-- A。一个有充分理由的，合乎逻辑的论点。
-- b。一个使用人身攻击谬误的论点。
-- C。一个使用诉诸情感谬误的论证。
+7. 再次考虑“我不支持班长的这个提议，因为我不相信他是为大家好”这一论点。这个论点属于以下哪种情况？
+- A. 一个有充分理由的，合乎逻辑的论点。
+- B. 人身攻击谬误。
+- C. 诉诸情感谬误。
 
----
+???
 # 小问答
 
 8. Consider the argument “Your lack of enthusiasm for soccer proves that you are not a sports fan.” This argument is an example of
@@ -627,12 +660,12 @@ taken to imply that p is false.
 
 ---
 # 小问答
-8. 考虑一下“你对足球缺乏热情证明你不是体育迷”这个论点。这个论点是一个例子
-- A。一个有充分理由的，合乎逻辑的论点。
-- b。一个使用转移谬误的论点。
-- C。一个使用有限选择谬误的论证。
+8. 考虑“你对足球缺乏热情，这证明你不是体育迷”这个论点。这个论点是以下哪种情况？
+- A. 一个有充分理由的，合乎逻辑的论点。
+- B. 转移视线谬误。
+- C. 有限选择谬误。
 
----
+???
 # 小问答
 
 9. Suppose that the fact that an event A occurs before event B is used to conclude that A caused - B. This is an example of
@@ -642,12 +675,12 @@ taken to imply that p is false.
 
 ---
 # 小问答
-9. 假设事件 A 在事件 B 之前发生的事实被用来推断 A 导致了 -B。这是一个例子
-- A。一个有充分理由的，合乎逻辑的论点。
-- b。一个使用错误原因谬误的论证。
-- C。仓促概括。
+9. 假设“事件 A 在事件 B 之前发生”这一事实，被用来推断 A 导致了 B. 这是以下哪种情况？
+- A. 一个有充分理由的，合乎逻辑的论点
+- B. 虚假原因
+- C. 草率概括
 
----
+???
 # 小问答
 
 10. When we speak of a straw man in an argument, we mean
@@ -657,12 +690,12 @@ taken to imply that p is false.
 
 ---
 # 小问答
-10. 当我们在争论中提到稻草人时，我们的意思是
-- A。对他人的想法或信念的歪曲。
-- b。一个没有使用好的逻辑的人。
-- C。一个论点如此薄弱，以至于它就像是用稻草制成的。
+10. 当我们在争论中提到“稻草人”时，我们的意思是
+- A. 对他人的想法或信念的歪曲。
+- B. 这是一个没有使用好的逻辑的人。
+- C. 一个论点如此薄弱，以至于它就像是用稻草制成的。
 
----
+???
 # 应用 1
 
 - Recognizing Fallacies
@@ -671,104 +704,126 @@ taken to imply that p is false.
 - If possible, identify the type of fallacy it represents
 
 ---
-# 应用 1
+# 案例分析
 
-- 认识谬误
+讨论下面的几种谬误，分析以下内容
 - 确定前提和结论
 - 解释为什么这个论点具有欺骗性
 - 如果可能，确定它代表的谬误类型
 
----
+???
 # 应用 2
 
 Obesity has increased steadily, as has the sale of video games. It follows that video games are compromising our health.
 
----
-# 应用 2
+# 案例 1
 
-肥胖人数稳步上升，电子游戏的销量也是如此。由此可见，电子游戏正在损害我们的健康。
+肥胖人数稳步上升，电子游戏的销量也是如此。由此可见，电子游戏正在让我们变得肥胖。
 
----
+属于哪种？
+- 诉诸流行、 虚假原因、 诉诸未知、 草率概括、有限选择、诉诸情感、人身攻击、 循环推理、 转移视线、 稻草人
+
+???
 # 应用 3
 
 All the mayors of my hometown have been men, which shows that men are better qualified for high office than women.
 
 ---
-# 应用 3
+# 案例 2
 
-我家乡的市长都是男性，可见男性比女性更适合担任高级职务。
+我家乡的市长、县长、区长都是男性，可见男性比女性更适合担任高级职务。
 
----
+属于哪种？
+- 诉诸流行、 虚假原因、 诉诸未知、 草率概括、有限选择、诉诸情感、人身攻击、 循环推理、 转移视线、 稻草人
+
+???
 # 应用 4
 
 My father tells me that I should exercise daily. But he never exer- cised when he was young, so I see no need to follow his advice.
 
 ---
-# 应用 4
+# 案例 3
 
-我父亲告诉我，我应该每天锻炼。但是他年轻的时候从来不锻炼，所以我觉得没有必要听从他的建议。
+我父亲告诉我，我应该每天锻炼。但他年轻的时候从来不锻炼，所以我觉得没有必要听从他的建议。
 
----
+属于哪种？
+- 诉诸流行、 虚假原因、 诉诸未知、 草率概括、有限选择、诉诸情感、人身攻击、 循环推理、 转移视线、 稻草人
+
+???
 # 应用 5
 
 My baby was vaccinated and later developed autism, which is why I believe that vaccines cause autism.
 
 ---
-# 应用 5
+# 案例 4
 
-我的孩子接种了疫苗，后来患上了自闭症，这就是为什么我认为疫苗会导致自闭症。
+我的孩子接种了疫苗，后来患上了自闭症，这就是为什么我认为疫苗会导致自闭症的原因。
 
----
+属于哪种？
+- 诉诸流行、 虚假原因、 诉诸未知、 草率概括、有限选择、诉诸情感、人身攻击、 循环推理、 转移视线、 稻草人
+
+???
 # 应用 6
 
 Everyone loves Shakespeare, because his plays have been read for many centuries.
 
 ---
-# 应用 6
+# 案例 5
 
-每个人都喜欢莎士比亚，因为他的戏剧已经被阅读了多个世纪。
+每个人都喜欢读莎士比亚，因为他的戏剧已经被阅读了多个世纪。
 
----
+属于哪种？
+- 诉诸流行、 虚假原因、 诉诸未知、 草率概括、有限选择、诉诸情感、人身攻击、 循环推理、 转移视线、 稻草人
+
+???
 # 应用 7
 
 Claims that GMO foods are unsafe are ridiculous, as I’ve never heard of anyone getting sick from them.
 
 ---
-# 应用 7
+# 案例 6
 
 声称转基因食品不安全是荒谬的，因为我从未听说过有人因转基因食品而生病。
 
----
+属于哪种？
+- 诉诸流行、 虚假原因、 诉诸未知、 草率概括、有限选择、诉诸情感、人身攻击、 循环推理、 转移视线、 稻草人
+
+???
 # 应用 8
 
 I will not give money to the earthquake relief effort. After I last gave to a charity, an audit showed that most of the money was used to pay its administrators in the front office.
 
 ---
-# 应用 8
+# 案例 7
 
-我不会给抗震救灾钱。在我上次捐给慈善机构之后，一项审计显示大部分钱都用来支付其前台的管理人员。
+我不会再给慈善组织捐钱了。我上次捐给一家慈善机构之后，一项对它的审计显示：大部分钱都用来支付其管理人员的工资。
 
----
+属于哪种？
+- 诉诸流行、 虚假原因、 诉诸未知、 草率概括、有限选择、诉诸情感、人身攻击、 循环推理、 转移视线、 稻草人
+
+???
 # 应用 9
 
 My three friends who drink wine have never had heart attacks. My two friends who have had heart attacks are non-drinkers. Drinking wine is clearly a good therapy.
 
 ---
-# 应用 9
+# 案例 8
 
-我的三个喝酒的朋友从来没有心脏病发作过。我的两个心脏病发作的朋友都不喝酒。喝酒显然是一种很好的治疗方法。
+我的三个喝酒的朋友从来没有心脏病发作过，而我的两个心脏病发作的朋友都不喝酒。看来喝酒是一种很好的治疗心脏病的方法。
 
----
+属于哪种？
+- 诉诸流行、 虚假原因、 诉诸未知、 草率概括、有限选择、诉诸情感、人身攻击、 循环推理、 转移视线、 稻草人
+
+???
 # 应用 10
 
 My little boy loves dolls and my little girl loves trucks, so there’s no truth to the claim that boys are more interested in mechanical toys while girls prefer maternal toys.
 
----
 # 应用 10
 
 我的小男孩喜欢洋娃娃，我的小女孩喜欢卡车，所以说男孩更喜欢机械玩具而女孩更喜欢母性玩具的说法是不正确的。
 
----
+???
 # 其它谬误 1
 
 - Fallacy of division
@@ -778,15 +833,23 @@ My little boy loves dolls and my little girl loves trucks, so there’s no truth
   - Americans use more gasoline than Europeans, so Jake, who is an American, must use more gasoline than Europeans.
 
 ---
+# 更多谬误
+
+- 部分谬误（Fallacy of division）
+- 赌徒谬误 (Gambler’s fallacy)
+- 滑坡谬误（slippery slope fallacy）
+- 中间地带谬误（middle ground fallacy）
+
+---
 # 其它谬误 1
 
-- 除法谬误
+- 部分谬误（Fallacy of division）
   - 前提：X 有一些属性。
-  - 结论：属于X的所有事物或人必须具有相同的属性。
+  - 结论：属于X的所有事物或人一定具有这一属性。
 - 例子：
   - 美国人比欧洲人用更多的汽油，所以杰克，一个美国人，肯定比欧洲人用更多的汽油。
 
----
+???
 # 其它谬误 2
 
 - Gambler’s fallacy
@@ -798,13 +861,13 @@ My little boy loves dolls and my little girl loves trucks, so there’s no truth
 ---
 # 其它谬误 2
 
-- 赌徒谬误
+- 赌徒谬误 (Gambler’s fallacy)
   - 前提：X 发生的次数超过了它应该发生的次数。
   - 结论：X 即将结束。
 - 例子：
-  - 下了 10 天的雨，这在这附近很不寻常。明天会是晴天。
+  - 下了 10 天的雨，这很不寻常。明天会是晴天。
 
----
+???
 # 其它谬误 3
 - The slippery slope fallacy
   - Premise: X has occurred and is related to Y.
@@ -814,13 +877,14 @@ My little boy loves dolls and my little girl loves trucks, so there’s no truth
 
 ---
 # 其它谬误 3
-- The slippery slope fallacy
-- 前提：X 已经发生并且与 Y 相关。
+
+- 滑坡谬误（slippery slope fallacy）
+  - 前提：X 已经发生，X 与 Y 相关。
   - 结论：Y 不可避免地会出现。
 - 例子：
-  - 美国最近向三个国家派兵。在你知道之前，我们将到处都有军队。
+  - 我们公司最近向三个国家出口。世界各地都有我们的产品。
 
----
+???
 # 其它谬误 4
 - The middle ground fallacy
   - Premise: X and Y are two extreme positions on a question. 
@@ -830,18 +894,62 @@ My little boy loves dolls and my little girl loves trucks, so there’s no truth
 
 ---
 # 其它谬误 4
-- The middle ground fallacy
-- 前提：X 和 Y 是一个问题的两个极端位置。
+
+- 中间地带谬误（middle ground fallacy）
+  - 前提：X 和 Y 是一个问题的两个极端位置。
   - 结论：位于 X 和 Y 之间的 Z 一定是正确的。
 - 例子：
-  - 参议员彼得斯支持大幅减税，参议员威利斯支持不减税。这意味着小幅减税一定是最好的。
+  - A 支持房价应该大涨，B 说房价应该大跌。这意味着房价不涨不跌是最好的。
+
+???
+## 项目 1
+
+评估媒体信息。
+- 选择当前的政策讨论主题（示例可能包括医疗保健、税收政策或许多其他主题）。
+- 找到一个在主题的一侧或另一侧争论的网站。
+- 根据本单元给出的评估媒体信息的五个步骤评估论点。
+- 写一份关于您访问​​过的网站的简短报告以及您对其信息可靠性的结论。
+
+???
+### 项目 2
+
+Fallacy Websites. There are many websites devoted to the study of fallacies. Visit one, and choose a fallacy of a type not covered in this unit. Explain the fallacy, and give an example of it.
+
+### 项目 2
+
+谬论网站。有许多网站专门研究谬误。访问一个，然后选择一个本单元未涵盖的谬误类型。解释谬误，并举例说明。
+
+### 项目 3
+
+Editorial Fallacies. Examine editorials and letters to the edi- tor in your local newspaper. Find at least three examples of fallacies. In each case, describe how the argument is decep- tive. If the fallacy represents one or more of the common types described in this unit, state the type.
+
+### 项目 3
+
+编辑谬误。检查当地报纸上的社论和给编辑的信。找出至少三个谬误的例子。在每种情况下，描述论点如何具有欺骗性。如果谬误代表本单元中描述的一种或多种常见类型，请说明类型。
+
+### 项目 4
+
+Fallacies in Advertising. Pick a single night and a single commercial television channel, and analyze the advertisements shown over a one-hour period. Describe how each advertise- ment tries to persuade the viewer, and discuss whether the argu- ment is fallacious. What fraction of the advertisements involve fallacies? Are any fallacy types more common than others?
+
+---
+## 小组作业 1： 广告中的谬误
+
+- 选择十个广告或直播带货视频，分析它们。
+- 描述每个广告如何试图说服观众，并讨论该论点是否错误。
+- 有多少广告涉及谬论？
+- 是否有任何谬误类型比其他谬误类型更常见？
+
+???
+### 项目 6
+
+Personal Fallacies. Describe an instance in which you were persuaded of something that you later decided was untrue. Explain how you were persuaded and why you later changed your mind. Did you fall victim to any fallacies? If so, how might you prevent the same thing from happening in the future?
 
 ---
 # 评估媒体信息的方法
 
 - 上述谬误只是个人、团体和公司为塑造你的观点而使用的众多策略中的一小部分
 - 没有万无一失的方法可以确保特定媒体信息的可靠性
-- 一些指南，可能会有所帮助
+- 下面是一些指南，可能会有所帮助
   - 后面会学习如何基于大数据，实现这些步骤
 
 ---
@@ -914,10 +1022,7 @@ My little boy loves dolls and my little girl loves trucks, so there’s no truth
   - 然而，火星的直径只有月球的两倍左右
 - 所以，火星在我们的天空中永远不会像满月那样大而明亮
 
----
-# 练习 21–24
-
----
+???
 # 一些著名的事实核查网站
 - 政治事实核查
   - FactCheck.org，由无党派和非营利性的 Annenberg 公共政策中心支持；
@@ -928,54 +1033,17 @@ My little boy loves dolls and my little girl loves trucks, so there’s no truth
 - TruthOrFiction.com
   - 检查消息有效性，网站由一位以公平和准确著称的个人运营
 
----
+???
 ### 项目 1
 
 Evaluating Media information. Choose a current topic of policy discussion (examples might include gun control, health care, tax policy, or many other topics). Find a website that argues on one side or other of the topic. Evaluate the arguments based on the five steps for evaluating media information given in this unit. Write a short report on the site you visited and your conclusions about the reliability of its information.
 
 ---
-### 项目 1
+## 小组作业 2: 评估媒体信息的方法
 
-评估媒体信息。选择当前的政策讨论主题（示例可能包括医疗保健、税收政策或许多其他主题）。找到一个在主题的一侧或另一侧争论的网站。根据本单元给出的评估媒体信息的五个步骤评估论点。写一份关于您访问​​过的网站的简短报告以及您对其信息可靠性的结论。
-
----
-### 项目 2
-
-Fallacy Websites. There are many websites devoted to the study of fallacies. Visit one, and choose a fallacy of a type not covered in this unit. Explain the fallacy, and give an example of it.
-
----
-### 项目 2
-
-谬论网站。有许多网站专门研究谬误。访问一个，然后选择一个本单元未涵盖的谬误类型。解释谬误，并举例说明。
-
----
-### 项目 3
-
-Editorial Fallacies. Examine editorials and letters to the edi- tor in your local newspaper. Find at least three examples of fallacies. In each case, describe how the argument is decep- tive. If the fallacy represents one or more of the common types described in this unit, state the type.
-
----
-### 项目 3
-
-编辑谬误。检查当地报纸上的社论和给编辑的信。找出至少三个谬误的例子。在每种情况下，描述论点如何具有欺骗性。如果谬误代表本单元中描述的一种或多种常见类型，请说明类型。
-
----
-### 项目 4
-
-Fallacies in Advertising. Pick a single night and a single commercial television channel, and analyze the advertisements shown over a one-hour period. Describe how each advertise- ment tries to persuade the viewer, and discuss whether the argu- ment is fallacious. What fraction of the advertisements involve fallacies? Are any fallacy types more common than others?
-
----
-### 项目 4
-
-广告中的谬误。选择一个晚上和一个商业电视频道，分析一小时内播放的广告。描述每个广告如何试图说服观众，并讨论该论点是否错误。有多少广告涉及谬论？是否有任何谬误类型比其他谬误类型更常见？
-
----
-### 项目 6
-
-Personal Fallacies. Describe an instance in which you were persuaded of something that you later decided was untrue. Explain how you were persuaded and why you later changed your mind. Did you fall victim to any fallacies? If so, how might you prevent the same thing from happening in the future?
-
----
-### 项目 6
-
-个人谬误。描述一个例子，在这个例子中，您被说服了某件事，但您后来认为这是不真实的。解释你是如何被说服的，以及为什么你后来改变了主意。你有没有成为任何谬误的受害者？如果是这样，您如何防止将来发生同样的事情？
+- 描述一个例子，在这个例子中，您被说服了某件事，但您后来认为这是不真实的。
+- 解释你是如何被说服的，以及为什么你后来改变了主意。
+- 你有没有成为任何谬误的受害者？
+- 如果是这样，您如何防止将来发生同样的事情？
 
 <!-- .center[.width-110[![](./figures/zhufeng.png)]] -->
