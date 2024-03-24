@@ -115,6 +115,9 @@ class: middle, center
 
 .center[.width-50[![](./fig/basic/5-forest.png)]]
 
+???
+“peaceful elven forest, thick forest, large living trees are visible in the background, by alan lee, michal karcz, smooth details, lord of the rings, game of thrones, smooth, detailed terrain, oil painting, trending artstation, concept art, fantasy matte painting”; Negative prompt: “moss”
+
 ---
 ## 小结
 - 地点和空间：户外、室内

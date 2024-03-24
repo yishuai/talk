@@ -205,6 +205,9 @@ class: middle, center
 
 .center[.width-50[![](./fig/basic/4-aima-1.png)]]
 
+???
+例：Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian, iridescent gold, cinematic lighting, dark
+
 ---
 class: middle, center
 ## 指定喜欢的画家
