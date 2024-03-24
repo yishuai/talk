@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 II：我
+## AI 绘画 II：我是谁？
 
 陈一帅，陈宇晗
 
@@ -18,15 +18,16 @@ class: middle, center
 
 ---
 class: middle, center
-## 绘画风格
+## 我是谁？
 
 黑白风格
 
 彩色风格
 
+艺术风格
 ---
 class: middle, center
-## 铅笔素描
+## 黑白：铅笔素描
 画一个男孩，快跑，表情快乐，详细的，铅笔素描
 
 .center[.width-60[![](./fig/style/3-2-pencil.jpeg)]]
@@ -38,7 +39,7 @@ class: middle, center
 水彩、喷枪、铅笔、丙烯
 
 ---
-## 黑白风格
+## 更多黑白风格
 
 - 圆珠笔
 - 炭笔素描
@@ -64,20 +65,20 @@ Field journal line art
 
 ---
 class: middle, center
-## 蜡笔风格
+## 彩色：蜡笔风格
 画一个女孩，快跑，表情快乐，详细的，蜡笔风格
 
 .center[.width-60[![](./fig/style/3-3-crayon.jpeg)]]
 
 ---
 class: middle, center
-## 儿童画风格
+## 彩色：儿童画风格
 画一个男孩，快跑，表情快乐，详细的，儿童画风格
 
 .center[.width-60[![](./fig/style/3-4-child.jpeg)]]
 
 ---
-## 彩色风格
+## 更多彩色风格
 
 - 蜡笔
 - 儿童画
@@ -103,20 +104,20 @@ Watercolor
 
 ---
 class: middle, center
-## 丝网印刷风格
+## 艺术风格：丝网印刷
 画一个女孩，快跑，表情快乐，丝网印刷风格
 
 .center[.width-60[![](./fig/style/3-5-web.jpeg)]]
 
 ---
 class: middle, center
-## 街头艺术
+## 艺术风格：街头艺术
 画一个女孩，表情快乐，详细的，街头艺术风格
 
 .center[.width-60[![](./fig/style/3-1-street.jpeg)]]
 
 ---
-## 更多风格
+## 更多艺术风格
 
 - 粉笔
 - 丝网印刷
@@ -129,15 +130,19 @@ class: middle, center
 - 浮世绘
 
 ---
+class: middle, center
+
 ## 外形
 
-- 发型
-- 角色扮演
-- 彩妆
+发型
+
+角色
+
+彩妆
 
 ---
 class: middle, center
-## 野战迷彩
+## 外形：野战迷彩
 画一个男孩，快乐地向我们走来，特种部队，野战迷彩妆，儿童画风格
 
 .center[.width-60[![](./fig/style/3-10-army.jpeg)]]
@@ -153,7 +158,7 @@ class: middle, center
 
 ---
 class: middle, center
-## 黑天鹅绒质地
+## 服装：黑天鹅绒质地
 
 画一个快乐的孩子，慢跑，黑天鹅绒质地
 
@@ -161,62 +166,91 @@ class: middle, center
 
 ---
 class: middle, center
-## 白色连衣裙
+## 服装：白色连衣裙
 画一个女孩，快乐地向我们走来，高级定制，白色连衣裙，上面有小花，儿童画风格
 
 .center[.width-60[![](./fig/style/3-6-skirt.jpeg)]]
 
 ---
 class: middle, center
-## 古罗马军团盔甲
+## 服装：古罗马军团盔甲
 画一个男孩，骄傲地向我们走来，穿着古罗马军团的盔甲，儿童画风格
 
 .center[.width-60[![](./fig/style/3-7-armor.jpeg)]]
 
 ---
+class: middle, center
+
 ## 配饰
-- 珠宝、项链、戒指
-- 配饰
-- 箱包
+珠宝、项链、戒指
 
----
-## 地点和空间
-- 建筑
-- 景点、设施、主题公园、教育空间、场馆
-- 花园、景观、自然、户外空间
+配饰
+
+箱包
 
 ---
 class: middle, center
-## 北京故宫
-画一个女孩，在北京故宫门口，快乐地向我们走来，儿童画风格，远景
+## 光
 
-.center[.width-60[![](./fig/style/3-8-forbidden.jpeg)]]
+烛光
 
----
-## 地点和空间
-- 商业室内、酒店、公共建筑、工作场所
-- 公共领域、街道、广场、城市景观
+电影灯光
+
+演播室灯光
 
 ---
 class: middle, center
-## 超市
-画一个男孩，在超市里，快乐地挑选蔬菜，儿童画风格，中景
+## 光：电影灯光
+画一幅画：艾玛·沃特森，饰演的强大神秘女巫，施展闪电魔法，细致服装，数字绘画，超现实主义，幻想，全身，高度细致，锐利聚焦，科幻，美得惊人，虹彩金色，电影灯光，黑暗
 
-.center[.width-60[![](./fig/style/3-9-market.jpeg)]]
-
----
-## 活动
-- 充气玩具、花车、热气球
-- 活动、节日、活动设计、活动策划、活动装饰
+.center[.width-50[![](./fig/basic/4-aima-1.png)]]
 
 ---
-## 地点和空间
-- 舞台布景、戏剧布景
-- 家庭室内装饰、家居设计
-
-???
-- 家具、家具、地毯、沙发、床、窗帘等
+class: middle, center
+## 指定喜欢的画家
 
 ---
-## 作品分享
+class: middle, center
+## 指定喜欢的画家
+作者：Stanley Artgerm Lau 和 Alphonse Mucha，artstation
 
+.center[.width-60[![](./fig/basic/4-aima-2.png)]]
+
+---
+## 小结
+- 风格
+  - 黑白：铅笔
+  - 彩色：蜡笔、儿童画
+  - 艺术：丝网印刷、街头艺术
+- 外形：发型、角色扮演、彩妆
+- 服装/配饰：裙子、盔甲
+- 光：烛光、演播室灯光、闪电
+- 画家：指定喜欢的画家
+
+---
+class: middle, center
+
+实验和作品分享 1
+
+## 我是谁？
+
+---
+class: middle, center
+
+实验和作品分享 2
+
+## 我最爱的人是谁？
+
+---
+class: middle, center
+
+实验和作品分享 3
+
+## 我的一位朋友是谁？
+
+---
+class: middle, center
+
+实验和作品分享 4
+
+## 我的一位偶像是谁？

@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 III：数字艺术
+## AI 绘画 IV：数字艺术
 
 陈一帅，陈宇晗
 
@@ -12,26 +12,48 @@ class: middle, center
 
 ---
 class: middle, center
-## 数字艺术风格
+## 数字艺术
 
-更现代，数字化外观的插图
+更现代，数字化外观
+
+电子游戏
+
+动画
+
+漫画
 ---
 class: middle, center
-## 游戏风格
+## 电子游戏风格
 
 画一个男孩，跑过城市，中景，复古电子游戏风格
 
 .center[.width-60[![](./fig/style/5-1-game.jpeg)]]
 ---
 class: middle, center
-## 游戏风格
+## 电子游戏：指定游戏
 
 画一个跑步的女孩，电脑游戏《星际争霸》屏幕截图
 
 .center[.width-60[![](./fig/style/5-2-game.jpeg)]]
+
 ---
 class: middle, center
-## 动画片风格
+## 动画片：中国上海
+
+画一个池塘，里面几只小野鸭在游动，动画片《小蝌蚪找妈妈》截图，中国水墨画
+
+.center[.width-60[![](./fig/style/5-13-chinese.jpeg)]]
+
+---
+class: middle, center
+## 动画片：美国皮克斯
+请画一张画：数字艺术，皮克斯动画片风格，一个男子向上看，睁大眼睛，惊奇，人物头像，五彩背景
+
+.center[.width-60[![](./fig/basic/2-digit.png)]]
+
+---
+class: middle, center
+## 动画片：日本宫崎骏
 
 画一个快乐的孩子慢跑，动画片《千与千寻》截图
 
@@ -45,7 +67,7 @@ class: middle, center
 尝试不同的数字风格：“数字艺术”、“矢量图形”、“极简主义”、“几何”、“等距”、“2.5D”、“哑光粘土”、“数字绘画”、“最喜欢的游戏或动画片的屏幕截图”、“图表”、“说明手册”。
 
 ---
-## 动画片风格
+## 更多动画片风格
 
 - 复古迪士尼
 - 20 世纪 90 年代迪士尼，卡通渲染
@@ -189,7 +211,17 @@ Fabric pattern
 
 ---
 class: middle, center
-## 3D 渲染
+## 3D 动画效果
+
+3D 渲染
+
+4D 渲染
+
+粘土动画
+
+---
+class: middle, center
+## 3D 动画：3D 渲染
 
 画一个快乐的孩子，慢跑，3D 渲染
 
@@ -197,7 +229,7 @@ class: middle, center
 
 ---
 class: middle, center
-## 4D 渲染
+## 3D 动画：4D 渲染
 
 画一个快乐的孩子，慢跑，Cinema 4D
 
@@ -205,7 +237,7 @@ class: middle, center
 
 ---
 class: middle, center
-## 粘土动画
+## 3D 动画：粘土动画
 
 画一个快乐的孩子，慢跑，粘土动画
 
@@ -213,7 +245,7 @@ class: middle, center
 
 ---
 class: middle, center
-## 粘土动画
+## 3D 动画：粘土动画
 
 画一个快乐的孩子，慢跑，粘土动画，特写
 
@@ -221,5 +253,66 @@ class: middle, center
 
 ---
 class: middle, center
+## 光
 
-# 作品分享
+电影灯光
+
+演播室灯光
+
+---
+class: middle, center
+## 光：电影灯光
+画一幅画：艾玛·沃特森，饰演的强大神秘女巫，施展闪电魔法，细致服装，数字绘画，超现实主义，幻想，全身，高度细致，锐利聚焦，科幻，美得惊人，虹彩金色，电影灯光，黑暗
+
+.center[.width-50[![](./fig/basic/4-aima-1.png)]]
+
+---
+class: middle, center
+## 指定喜欢的漫画家
+
+---
+class: middle, center
+## 指定喜欢的漫画家
+作者：Stanley Artgerm Lau 和 Alphonse Mucha，artstation
+
+.center[.width-60[![](./fig/basic/4-aima-2.png)]]
+
+---
+## 小结
+- 数字艺术
+- 电子游戏风格
+- 动画片风格
+  - 中国上海
+  - 美国迪士尼、皮克斯
+  - 日本宫崎骏
+- 3D 效果
+- 光：电影灯光
+- 漫画家
+
+---
+class: middle, center
+
+实验和作品分享 1
+
+## 我喜欢的动画片角色？
+
+---
+class: middle, center
+
+实验和作品分享 2
+
+## 我创造的动画片角色？
+
+---
+class: middle, center
+
+实验和作品分享 3
+
+## 我喜欢的漫画角色？
+
+---
+class: middle, center
+
+实验和作品分享 4
+
+## 我创造的漫画角色？
