@@ -158,6 +158,16 @@ class: middle, center
 
 ---
 class: middle, center
+## 国家地理风格
+
+画一张照片，短尾矮袋鼠的特写，国家地理风格摄影，令人惊叹的图像，黄金时段
+
+close up of a Quokka, national geographic style photography, stunning image, golden hour
+
+.center[.width-50[![](./fig/style/11-6-quokka.jpeg)]]
+
+---
+class: middle, center
 ## 地点：工作室
 摄影，工作室肖像摄影，一个女孩子的照片，表情快乐，详细的
 

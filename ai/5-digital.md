@@ -38,6 +38,16 @@ class: middle, center
 
 ---
 class: middle, center
+## 经典电脑游戏翻新
+
+画一幅画，将 坦克大战 游戏 重新构想为 3D 现代风格游戏
+
+reimagine the ZX Spectrum Game MANIC MINER as a 3D modern style game
+
+.center[.width-50[![](./fig/style/5-3-game.jpeg)]]
+
+---
+class: middle, center
 ## 动画片：中国上海
 
 画一个池塘，里面几只小野鸭在游动，动画片《小蝌蚪找妈妈》截图，中国水墨画
@@ -265,6 +275,16 @@ class: middle, center
 画一幅画：艾玛·沃特森，饰演的强大神秘女巫，施展闪电魔法，细致服装，数字绘画，超现实主义，幻想，全身，高度细致，锐利聚焦，科幻，美得惊人，虹彩金色，电影灯光，黑暗
 
 .center[.width-50[![](./fig/basic/4-aima-1.png)]]
+
+---
+class: middle, center
+## 漫画风格
+
+漫画风格，尼古拉·特斯拉被闪电包围的漫画风格形象
+
+Manga style image of Nikola Tesla surrounded by lightening
+
+.center[.width-50[![](./fig/style/5-8-manga.jpeg)]]
 
 ---
 class: middle, center

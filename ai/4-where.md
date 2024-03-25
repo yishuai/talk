@@ -110,6 +110,16 @@ class: middle, center
 
 ---
 class: middle, center
+## 设计：哈利波特
+
+画一幅画，描绘可爱的哈利波特，皮克斯动画电影风格，戏剧性的灯光，站在霍格沃茨外面。
+
+Cute Harry Potter, pixar animated movie style, dramatic lighting, standing outside Hogwarts.
+
+.center[.width-50[![](./fig/style/3-13-harry.jpeg)]]
+
+---
+class: middle, center
 ## 设计：精灵森林
 画一幅画：宁静的精灵森林，茂密的森林，背景中可见大型活树，作者：alan lee，michal karcz，光滑的细节，指环王，权力的游戏，光滑，详细的地形，油画，趋势艺术站，概念艺术，幻想哑光绘画
 

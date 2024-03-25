@@ -16,6 +16,27 @@ class: middle, center
 
 职业相关的各种设计工作
 
+
+---
+class: middle, center
+## 美甲
+
+画一副画，一副美甲，以北京故宫的色彩和图案，绘制这个美甲
+
+macro shot of nail art featuring colors and design based around Barcelona FC
+
+.center[.width-50[![](./fig/style/15-0-nail.jpeg)]]
+
+---
+class: middle, center
+## 食品设计
+
+画一幅画，便当盒艺术、稻米背景，蔬菜制成的小兔子和胡萝卜
+
+Bento Box Art, race horse and jockey made from veg on a rice background
+
+.center[.width-50[![](./fig/style/15-0-box.jpeg)]]
+
 ---
 class: middle, center
 ## 包装设计
@@ -62,6 +83,17 @@ class: middle, center
 创建一个图像来描述 AIDA 概念（意识、兴趣、欲望、行动）与营销漏斗的关系。图像应显示一个漏斗，平均分为 4 个部分，“意识”位于顶部，“兴趣”位于下一个，然后是“欲望”，“行动”位于漏斗的最底部。使用极简、卡通风格并将漏斗设为二维。
 
 .center[.width-60[![](./fig/style/15-5-ppt.jpeg)]]
+
+---
+class: middle, center
+## 涂色卡
+
+画一幅画，霸王龙咆哮的戏剧性场景，背景是正在喷发的火山。着色页样式，粗线，黑白，无阴影，相互之间隔离
+
+Dramatic scene with a T-Rex roaring with an erupting volcano in the background. Coloring page style, bold lines, black and white, no shading, isolated
+
+.center[.width-50[![](./fig/style/15-6-coloring.jpeg)]]
+
 
 ---
 class: middle, center
