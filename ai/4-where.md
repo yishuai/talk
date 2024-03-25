@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 III：我在哪？
+## AI 绘画 3：我在哪？
 
 陈一帅，陈宇晗
 

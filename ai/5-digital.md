@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 IV：数字艺术
+## AI 绘画 4：数字艺术
 
 陈一帅，陈宇晗
 

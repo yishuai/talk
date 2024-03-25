@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 VII：摄影
+## AI 绘画 7：摄影
 
 陈一帅，陈宇晗
 
@@ -448,3 +448,12 @@ class: middle, center
 ## 我想用的胶片？
 
 黑白、胶片、达盖尔照相法
+
+---
+class: middle, center
+
+实验和作品分享 6
+
+## 我想拍的新闻？
+
+身边的新闻
