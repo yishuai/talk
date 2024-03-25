@@ -260,3 +260,9 @@ class: middle, center
 实验和作品分享 4
 
 ## 我的一位偶像是谁？
+
+---
+## 参考材料
+
+- 像哈利波特电影中那样，让照片动起来：[网站](https://www.myheritage.cn/deep-nostalgia)
+

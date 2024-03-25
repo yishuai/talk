@@ -42,9 +42,10 @@ class: middle, center
 
 画一幅画，将 坦克大战 游戏 重新构想为 3D 现代风格游戏
 
-reimagine the ZX Spectrum Game MANIC MINER as a 3D modern style game
-
 .center[.width-50[![](./fig/style/5-3-game.jpeg)]]
+
+???
+reimagine the ZX Spectrum Game MANIC MINER as a 3D modern style game
 
 ---
 class: middle, center

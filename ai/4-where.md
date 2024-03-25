@@ -46,6 +46,48 @@ class: middle, center
 
 ---
 class: middle, center
+## 视角
+画一张画，画面上是颐和园，视角是一个人站在 50 层楼的楼顶上看的视角
+
+.center[.width-50[![](./fig/style/3-8-summer.jpeg)]]
+
+???
+a person standing at the top of a 50-story building.
+
+---
+class: middle, center
+## 视角
+
+画一张画，优雅的凡尔赛宫餐厅，配有精致的木雕，宏伟的枝形吊灯照亮了一张闪亮的红木长桌，桌子上摆着精美的瓷器和银餐具，壁炉在背景中投射出温暖的光芒。 视角：一个人站在右侧入口处，距离壁炉几步之遥。
+
+.center[.width-50[![](./fig/style/3-8-dinner-room.jpeg)]]
+
+???
+An elegant Victorian-era dining room with intricate wood carvings, a grand chandelier illuminating a long shiny mahogany table set with fine china and silver cutlery, with a fireplace casting a warm glow in the background. POV: From a person standing at the entrance door on the right, a few steps from the fireplace.
+---
+class: middle, center
+## 地点：湖边
+
+画一张画，宁静的湖畔景色，一座孤独的小屋坐落在高大的松树丛中，它的倒影倒映在水晶般清澈的水中。
+
+.center[.width-50[![](./fig/style/3-8-lake.jpeg)]]
+
+???
+A serene lakeside scene with a solitary cabin nestled amidst tall pine trees, its reflection mirrored in the crystal-clear water.
+
+---
+class: middle, center
+## 地点：雪中小屋
+
+画一张画，冰雪覆盖的森林中的一间舒适的小屋，烟囱里缓缓升起炊烟，窗户里散发出温暖的光芒。
+
+.center[.width-50[![](./fig/style/3-8-snow.jpeg)]]
+
+???
+A cozy cabin in the middle of a snow-covered forest, smoke gently rising from the chimney, with a warm glow emanating from the windows.
+
+---
+class: middle, center
 ## 地点和空间：室内
 
 教育空间、场馆
@@ -114,9 +156,10 @@ class: middle, center
 
 画一幅画，描绘可爱的哈利波特，皮克斯动画电影风格，戏剧性的灯光，站在霍格沃茨外面。
 
-Cute Harry Potter, pixar animated movie style, dramatic lighting, standing outside Hogwarts.
-
 .center[.width-50[![](./fig/style/3-13-harry.jpeg)]]
+
+???
+Cute Harry Potter, pixar animated movie style, dramatic lighting, standing outside Hogwarts.
 
 ---
 class: middle, center

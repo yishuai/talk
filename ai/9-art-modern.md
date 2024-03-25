@@ -92,7 +92,7 @@ class: middle, center
 ---
 class: middle, center
 ## 现代艺术：达达主义
-画一个小男孩，在花园里，阳光明媚，达达主义, 拼贴, 组合, 剪切, 蒙太奇，油画，精细，大师作品
+一幅达达主义拼贴画，霓虹灯色调，体积照明，后世界末日，世界
 .center[.width-60[![](./fig/style/7-11-dada.jpeg)]]
 
 ---
@@ -247,8 +247,6 @@ Biopunk, organic: greens, slimes, plants, futuristic, weird
 
 🤩 Check out this huge list!
 
-https://aesthetics.fandom.com/wiki/List_of_Aesthetics
-
 ???
 - 基思·哈林
 - 乔治·苏拉特
@@ -279,6 +277,15 @@ Simon Stålenhag
 Roy Lichenstein, half-tone dots, comic detail, pop art
 
 ---
+class: middle, center
+
+## 艺术风格一览
+
+[Airtable](https://airtable.com/appGc7YdwCFVYwTK8/shrY4CRFRaIhLjiBe/tbldCHol3ABwHG9ex)
+
+.center[.width-100[![](./fig/style/0-gallery.png)]]
+
+---
 ## 艺术家
 
 - 吴大羽
@@ -305,3 +312,13 @@ class: middle, center
 ## 你最喜欢的艺术家风格是？
 
 用它完成一幅作品
+
+---
+## 参考材料
+
+- DALL-E 命令手册，[网络 PDF](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.01.pdf)，2022 年 7 月
+
+- Fandom, 美学列表，[网页](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
+
+- Wikipedia，艺术运动，[网页](https://en.wikipedia.org/wiki/Art_movement)
+

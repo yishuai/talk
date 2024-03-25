@@ -16,16 +16,16 @@ class: middle, center
 
 职业相关的各种设计工作
 
-
 ---
 class: middle, center
 ## 美甲
 
 画一副画，一副美甲，以北京故宫的色彩和图案，绘制这个美甲
 
-macro shot of nail art featuring colors and design based around Barcelona FC
-
 .center[.width-50[![](./fig/style/15-0-nail.jpeg)]]
+
+???
+macro shot of nail art featuring colors and design based around Barcelona FC
 
 ---
 class: middle, center
@@ -33,9 +33,10 @@ class: middle, center
 
 画一幅画，便当盒艺术、稻米背景，蔬菜制成的小兔子和胡萝卜
 
-Bento Box Art, race horse and jockey made from veg on a rice background
-
 .center[.width-50[![](./fig/style/15-0-box.jpeg)]]
+
+???
+Bento Box Art, race horse and jockey made from veg on a rice background
 
 ---
 class: middle, center
@@ -90,10 +91,10 @@ class: middle, center
 
 画一幅画，霸王龙咆哮的戏剧性场景，背景是正在喷发的火山。着色页样式，粗线，黑白，无阴影，相互之间隔离
 
-Dramatic scene with a T-Rex roaring with an erupting volcano in the background. Coloring page style, bold lines, black and white, no shading, isolated
-
 .center[.width-50[![](./fig/style/15-6-coloring.jpeg)]]
 
+???
+Dramatic scene with a T-Rex roaring with an erupting volcano in the background. Coloring page style, bold lines, black and white, no shading, isolated
 
 ---
 class: middle, center
@@ -147,3 +148,14 @@ class: middle, center
 ## 我想穿的衣服、演出服、万圣节装扮
 
 服装设计
+
+---
+## 参考材料
+
+- 后期处理：Canva，[网站](https://www.canva.com/)
+
+- 无界 AI 设计，[网站](https://www.wujieai.com)
+
+- Liblib AI 设计，[网站](https://www.liblib.art)
+
+- Stable_Diffusion 命令示例、关键词，[Wiki](https://wiki.installgentoo.com/wiki/Stable_Diffusion)
