@@ -399,6 +399,48 @@ class: middle, center
 ???
 Provide a list of best UX design tools. Write their key features in bullet points.
 
+
+---
+class: middle, center
+# 请一步一步想
+
+会想得更周到
+
+？？？
+不是简单地要一个结果，而是要它给出自己思考的过程
+- 提供“思路”，给出步骤
+思维链
+
+You can also ask ChatGPT to explain complex topics or to act as a cook-book step-by-step guide.
+
+---
+class: middle, center
+## 请一步一步想
+
+巴塞罗那举办奥运会那年，哪支欧洲足球队赢得了冠军联赛？请一步一步想
+
+???
+In chain of thought prompting, we explicitly encourage the model to be factual/correct by forcing it to follow a series of steps in its “reasoning”.
+
+In the following example, I use the prompt:
+
+“What European soccer team won the Champions League the year Barcelona hosted the Olympic games?
+
+Use this format:
+
+Q: A: Let’s think step by step. Therefore, the answer is .”
+
+I now ask ChatGPT to use the same format with a different question by using the prompt:
+
+“What is the sum of the squares of the individual digits of the last year that Barcelona F.C. won the Champions League? Use the format above.”
+
+- 第 1 步：分解任务
+- 第 2 步：将第一个问题的回答，包括进下一个问题中
+
+“巴塞罗那足球俱乐部去年的个位数平方和是多少？赢得了冠军联赛？使用上面的格式。”
+
+- 这也可以降低成本，因为送进去的文本少了
+
 ---
 class: middle, center
 # 技巧
