@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 7：摄影
+## AI 绘画 9：摄影
 
 陈一帅，陈宇晗
 
@@ -53,25 +53,19 @@ What ﬁlm or process is used? Digital or ﬁlm?
 What year was it taken?
 In what context was this photo ultimately published or used?
 
----
 class: middle, center
-## 摄影技术
+摄影技术
 
 内容
 
 技术
 
+class: middle, center
+内容
+
 ---
 class: middle, center
-## 内容
-
----
-class: middle, center
-## 年代，用途
-
-年代
-
-新闻
+## 年代
 
 ???
 year & usage context
@@ -80,28 +74,7 @@ year & usage context
 
 ---
 class: middle, center
-## 年代：解放后
-摄影，解放后，上海报纸宣传照片，一个女孩子的照片，快跑，表情快乐，详细的
-
-.center[.width-60[![](./fig/style/11-3-after.jpeg)]]
-
----
-class: middle, center
-## 年代：新时代
-摄影，新时代，北京报纸宣传照片，一个女孩子的照片，快跑，表情快乐，详细的
-
-.center[.width-60[![](./fig/style/11-2-before.jpeg)]]
-
----
-class: middle, center
-## 年代：未来
-摄影，一位跑步的女孩，神奇的跑鞋，未来派，令人惊叹的，摄影工作室作品，低调的灯光，散景，烟雾效果
-
-.center[.width-60[![](./fig/style/11-20-future.jpeg)]]
-
----
-class: middle, center
-## 年代：上世纪 70 年代
+## 上世纪 70 年代《生活》杂志照片
 摄影，画一个小女孩的特写、黑白、摄影级肖像，戏剧性的逆光，1973 年《生活》杂志的照片
 
 .center[.width-60[![](./fig/style/11-21-life.jpeg)]]
@@ -111,7 +84,32 @@ A close-up, black & white studio photographic portrait of SUBJECT, dramatic back
 
 ---
 class: middle, center
-## 用途：新闻摄影
+## 解放后
+摄影，解放后，上海，一个女孩子的照片，快跑，表情快乐，详细的
+
+.center[.width-60[![](./fig/style/11-3-after.jpeg)]]
+
+---
+class: middle, center
+## 今天
+摄影，今天，北京，一个女孩子的照片，快跑，表情快乐，详细的
+
+.center[.width-60[![](./fig/style/11-2-before.jpeg)]]
+
+---
+class: middle, center
+## 未来
+摄影，一位跑步的女孩，神奇的跑鞋，未来派，令人惊叹的，摄影工作室作品，低调的灯光，散景，烟雾效果
+
+.center[.width-60[![](./fig/style/11-20-future.jpeg)]]
+
+---
+class: middle, center
+# 类型
+
+---
+class: middle, center
+## 新闻摄影照片
 摄影，一位跑步的女孩，在一个很大的体育馆里，赛后胜利，骄傲的，后面红旗挥舞，面部细节，肖像，体育新闻摄影
 
 .center[.width-60[![](./fig/style/11-22-new.jpeg)]]
@@ -121,14 +119,14 @@ A vibrant photograph of SUBJECT, wide shot, outdoors, sunset photo at golden hou
 
 ---
 class: middle, center
-## 用途：抓拍
+## 抓拍照片
 摄影，抓拍肖像，一个女孩子的照片，快跑，表情快乐，详细的
 
 .center[.width-60[![](./fig/style/11-5-girl.jpeg)]]
 
 ???
 class: middle, center
-## 情感
+情感
 
 充满活力的
 
@@ -142,7 +140,7 @@ class: middle, center
 
 户外
 
-工作室肖像摄影
+工作室
 
 ???
 shoot context
@@ -151,32 +149,21 @@ shoot context
 
 ---
 class: middle, center
-## 地点：户外
+## 户外
 摄影，户外，一个女孩子的照片，表情快乐，详细的
 
 .center[.width-60[![](./fig/style/11-6-outdoor.jpeg)]]
 
 ---
 class: middle, center
-## 国家地理风格
-
-画一张照片，短尾矮袋鼠的特写，国家地理风格摄影，令人惊叹的图像，黄金时段
-
-.center[.width-50[![](./fig/style/11-6-quokka.jpeg)]]
-
-???
-close up of a Quokka, national geographic style photography, stunning image, golden hour
-
----
-class: middle, center
-## 地点：工作室
+## 工作室
 摄影，工作室肖像摄影，一个女孩子的照片，表情快乐，详细的
 
 .center[.width-60[![](./fig/style/11-7-studio.jpeg)]]
 
----
+???
 class: middle, center
-## 照明
+照明
 
 暖光
 
@@ -205,6 +192,17 @@ class: middle, center
 
 ---
 class: middle, center
+## 时段：黄金时段
+
+画一张照片，短尾矮袋鼠的特写，国家地理风格摄影，令人惊叹的图像，黄金时段
+
+.center[.width-50[![](./fig/style/11-6-quokka.jpeg)]]
+
+???
+close up of a Quokka, national geographic style photography, stunning image, golden hour
+
+---
+class: middle, center
 ## 时段：蓝色时段
 摄影，蓝色时段，一个男孩子的照片，快跑，表情快乐，详细的
 
@@ -214,16 +212,16 @@ class: middle, center
 class: middle, center
 ## 技术
 
-相机
-
 曝光
 
 镜头
 
+景深
+
 胶片
 
----
-## 相机
+???
+相机
 - 轨迹摄像机
 - CCTV
 - VHS
@@ -231,12 +229,11 @@ class: middle, center
 - 电影胶片
 - 手机拍照
 
----
-## 曝光
+曝光
+- 运动模糊
 - 长时间曝光
 - 高速快门
 - 快速快门速度、高速、动作照片、1/1000 秒快门
-- 运动模糊
 - 慢快门速度、1秒快门、长时间曝光
 ---
 class: middle, center
@@ -252,14 +249,13 @@ class: middle, center
 
 .center[.width-60[![](./fig/style/11-11-double.jpeg)]]
 
----
+???
 class: middle, center
-## 清晰
+清晰
 
 细节丰富、焦点清晰、4K、高清数字照相机
 
----
-## 相机设置 + 镜头
+相机设置 + 镜头
 - DSLR、35mm 镜头拍摄
 - 深景深，f/22，35mm 使所有元素清晰
 - 长焦镜头，Sigma 500mm f/5 从远处拍摄，感觉“偷窥”
@@ -299,9 +295,8 @@ Fish-eye lens: distorts the scene, vv. wide angle, the centre 'bulges'
 Motion blur
 Deep depth of ﬁeld, f/22, 35mm Make all elements sharp
 
----
 class: middle, center
-## 景深
+景深
 
 浅景深
 
@@ -322,9 +317,9 @@ class: middle, center
 
 .center[.width-60[![](./fig/style/11-9-deep.jpeg)]]
 
----
+???
 class: middle, center
-## 胶片
+胶片
 
 达盖尔照相法
 
@@ -338,14 +333,14 @@ class: middle, center
 
 ---
 class: middle, center
-## 达盖尔照相法
+## 胶片: 达盖尔照相法
 摄影，达盖尔照相法，一个男孩子的照片，快跑，表情快乐，详细的
 
 .center[.width-60[![](./fig/style/11-13-dagaer.jpeg)]]
 
 ---
 class: middle, center
-## 自动铬色
+## 胶片: 自动铬色
 摄影，自动铬色，一个男孩子的照片，快跑，表情快乐，详细的
 
 .center[.width-60[![](./fig/style/11-14-lou.jpeg)]]
@@ -360,35 +355,35 @@ class: middle, center
 
 ---
 class: middle, center
-## 赛博朋克
+## 人像
 摄影，照片，20 岁机器人，LED 面罩头盔，侧面姿势，半身照，高细节，工作室灯光，黑色背景，烟雾，锐利，赛博朋克，85 毫米西格玛艺术镜头
 
 .center[.width-50[![](./fig/style/11-15-robot.jpeg)]]
 
 ---
 class: middle, center
-## 发光蘑菇
+## 自然
 摄影，照片，相框中，烟雾缭绕的自然环境中，发光的蘑菇
 
 .center[.width-60[![](./fig/style/11-16-mushroom.jpeg)]]
 
 ---
 class: middle, center
-## 火灾新闻
+## 新闻
 摄影，照片，晚上房子着火，高细节，烟雾，锐利，雾气，黑暗
 
 .center[.width-60[![](./fig/style/11-17-house.jpeg)]]
 
 ---
 class: middle, center
-## 人物特写
+## 人物
 摄影，女孩，20岁，特写，高细节，工作室，烟雾，锐利，粉红紫光，工作室，85毫米西格玛艺术镜头
 
 .center[.width-60[![](./fig/style/11-18-girl.jpeg)]]
 
 ---
 class: middle, center
-## 寺庙宝藏
+## 室内
 摄影，照片，黑暗寺庙，金宝藏，高细节，烟雾，锐利，雾的照片
 
 .center[.width-60[![](./fig/style/11-19-temple.jpeg)]]
@@ -405,38 +400,26 @@ Photo of dark temple, golden treasure, high detail, smoke, sharp, fog
 
 ---
 ## 小结
-- 摄影：真实
+
 - 内容
-  - 年代、用途
-  - 拍摄地点、背景
-  - 照明、光线、时段
+  - 年代、类型
+  - 户外、工作室
+  - 时段（黄金时段、蓝色时段）
 - 技术
-  - 相机、曝光
-  - 镜头、景深
-  - 工艺、数字/胶片
+  - 曝光（运动模糊）、镜头（鱼眼镜头）、景深
+  - 胶片：达盖尔照相法
 - 示例
 ---
 class: middle, center
 
 实验和作品分享 1
 
-## 我想拍的地点？
-
-户外、工作室
-
-照明、时段
-
----
-class: middle, center
-
-实验和作品分享 2
-
 ## 我想拍的人？
 
 ---
 class: middle, center
 
-实验和作品分享 3
+实验和作品分享 2
 
 ## 我想拍的年代？
 
@@ -445,7 +428,7 @@ class: middle, center
 ---
 class: middle, center
 
-实验和作品分享 4
+实验和作品分享 3
 
 ## 我想用的镜头？
 
@@ -454,7 +437,7 @@ class: middle, center
 ---
 class: middle, center
 
-实验和作品分享 5
+实验和作品分享 4
 
 ## 我想用的胶片？
 
@@ -463,7 +446,7 @@ class: middle, center
 ---
 class: middle, center
 
-实验和作品分享 6
+实验和作品分享 5
 
 ## 我想拍的新闻？
 

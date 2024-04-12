@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 6：现代艺术
+## AI 绘画 8：现代艺术
 
 陈一帅，陈宇晗
 
@@ -12,22 +12,29 @@ class: middle, center
 
 ---
 class: middle, center
-## 艺术家
+## 现代艺术
+
+达达主义
 
 超现实主义
 
 波普艺术
 
 ---
+class: middle, center
+## 现代艺术：达达主义
+一幅达达主义拼贴画，霓虹灯色调，体积照明，后世界末日，世界
+.center[.width-60[![](./fig/style/7-11-dada.jpeg)]]
+
+???
 ## 现代艺术 I
 - 装饰艺术，1925 年，复古，流线型现代，豪华，海报
 - 建构主义，俄罗斯，设计，1915 年，苏联时代
 - 抽象表现主义、油漆泼溅：杰克逊·波洛克
 - 达达主义, 1920, 荒谬, 拼贴, 组合, 剪切, 蒙太奇
 
-???
 class: middle, center
-## 现代艺术
+现代艺术
 
 画一群跑者，在起跑线上，装饰艺术设计，1925 年，复古，流线型，现代艺术
 
@@ -83,20 +90,12 @@ Byzantine icon, Christian icon, halo, painting, Eastern Roman.
 Decorative Minoan mural, 2000 BCE, artefact, ancient.
 Giilded codex, lavish, illiminated, maniscript, vellum, well-preserved
 
----
 class: middle, center
-## 现代艺术：建构主义
+现代艺术：建构主义
 画一个小姑娘，在花园里，阳光明媚，建构主义，1915 年，苏联时代，油画，精细，大师作品
 .center[.width-60[![](./fig/style/7-10-constr.jpeg)]]
 
----
-class: middle, center
-## 现代艺术：达达主义
-一幅达达主义拼贴画，霓虹灯色调，体积照明，后世界末日，世界
-.center[.width-60[![](./fig/style/7-11-dada.jpeg)]]
-
----
-## 现代艺术 II
+现代艺术 II
 - 风格派，新造型主义，1920 年：皮特·蒙德里安，席恩·坎·杜斯堡
 - 包豪斯，1930 年代，几何：保罗·克利，瓦西里·康定斯基
 - 表现主义，1912年，德国
@@ -115,11 +114,10 @@ class: middle, center
 画一个小男孩，在花园里，阳光明媚，立体主义，油画，精细，毕加索，大师作品
 .center[.width-60[![](./fig/style/7-13-cubic.jpeg)]]
 
-
 ???
 - 色域绘画，抽象，罗斯科，60 年代，克莱福德·斯蒂尔
----
-## 现代艺术 III
+
+现代艺术 III
 - 街头艺术、涂鸦、城市公共艺术、独立
 - 未来主义, 1913, 意大利, 活力
 - 至上主义，抽象，几何，1913：卡齐米尔·马列维奇
@@ -138,8 +136,7 @@ class: middle, center
 画一个小男孩，在花园里，阳光明媚，油画，精细，至上主义，抽象，几何，卡齐米尔·马列维奇，1913，，大师作品
 .center[.width-60[![](./fig/style/7-15-zhishang.jpeg)]]
 
----
-## 现代艺术 IV
+现代艺术 IV
 
 - 新表现主义，20世纪80年代
 - 超现实主义：马格利特、达利、安德烈·布勒东、马克斯·恩斯特
@@ -184,8 +181,7 @@ Orphism, Orphist, František Kupka, Robert Delaunay, Sonia Delaunay
 Pop Art, Warhol, 1960s
 Street photography, urban, candid, ﬂaneur, unposed
 
----
-## 现代艺术 III
+现代艺术 III
 
 - 蒸汽波：霓虹灯、粉色、蓝色、几何、未来派、80 年代
 - 后世界末日：灰色、荒凉、暴风雨、火灾、腐烂
@@ -205,8 +201,7 @@ class: middle, center
 画一个小男孩，在花园里，油画，精细，哥特式、奇幻，石头、黑暗、郁郁葱葱、自然、薄雾，大师作品
 .center[.width-60[![](./fig/style/7-20-gete.jpeg)]]
 
----
-## 现代艺术 IV
+现代艺术 IV
 
 - 柴油朋克：肮脏、钢铁、石油、50 年代、机械化
 - 控制论、科幻：发光、绿色、金属、装甲、铬
@@ -220,9 +215,9 @@ class: middle, center
 画一个小姑娘，在四维网络空间里，赛博朋克，染发，尖刺，图形元素，油画，精细，大师作品
 .center[.width-60[![](./fig/style/7-21-cyber.jpeg)]]
 
----
+???
 class: middle, center
-## 现代艺术：科幻
+现代艺术：科幻
 画一个小男孩，在工厂里，科幻，发光、绿色、金属、装甲、铬，油画，精细，大师作品
 .center[.width-60[![](./fig/style/7-22-control.jpeg)]]
 
@@ -278,47 +273,29 @@ Roy Lichenstein, half-tone dots, comic detail, pop art
 
 ---
 class: middle, center
+## 各种艺术风格
 
-## 艺术风格一览
-
-[Airtable](https://airtable.com/appGc7YdwCFVYwTK8/shrY4CRFRaIhLjiBe/tbldCHol3ABwHG9ex)
+[Airtable 表格](https://airtable.com/appGc7YdwCFVYwTK8/shrY4CRFRaIhLjiBe/tbldCHol3ABwHG9ex)
 
 .center[.width-100[![](./fig/style/0-gallery.png)]]
 
----
-## 艺术家
+???
+艺术家
 
 - 吴大羽
 - 游牧在南方
 
 ---
 ## 小结
-- 现代艺术
-- 艺术风格
-- 艺术家
+- 达达主义
+- 野兽派、立体主义
+- 墨西哥壁画、抽象几何
+- 超现实主义、波普艺术
+- 后现代末日、哥特奇幻、赛博朋克
 
 ---
 class: middle, center
 
 实验和作品分享 1
 
-## 画一幅现代主义作品
-
----
-class: middle, center
-
-实验和作品分享 2
-
-## 你最喜欢的艺术家风格是？
-
-用它完成一幅作品
-
----
-## 参考材料
-
-- DALL-E 命令手册，[网络 PDF](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.01.pdf)，2022 年 7 月
-
-- Fandom, 美学列表，[网页](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
-
-- Wikipedia，艺术运动，[网页](https://en.wikipedia.org/wiki/Art_movement)
-
+## 画一幅当代艺术作品

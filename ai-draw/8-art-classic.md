@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 5：艺术
+## AI 绘画 7：艺术
 
 陈一帅，陈宇晗
 
@@ -11,22 +11,25 @@ class: middle, center
 <!-- .footnote[网络智能实验室] -->
 
 ---
-class: middle, center
-## 艺术家
+## 绘制艺术作品
 
-印象派
-
-梵高
-
-林风眠
+- 描述
+  - 年份
+  - 艺术运动
+  - 媒介
+  - 著名艺术家
+- 可以标记
+  - “杰作”
+  - “大师作品”
+  - “杰出范例”
 
 ---
-## 既复古又艺术！
+class: middle, center
+## 学习艺术史
 
-- 学习艺术史，了解各种艺术风格
-- 从古代洞穴壁画到 20 世纪现代艺术
-- 描述：年份、艺术运动、媒体或著名艺术家
-- 可以标记 “杰作”、“大师作品” 或 “杰出范例”
+了解各种艺术风格
+
+从古代洞穴壁画到 20 世纪现代艺术
 
 ---
 class: middle, center
@@ -148,23 +151,98 @@ class: middle, center
 黑白，水墨画，江南的水乡，几只燕子，飞过，大师作品，薄雾
 .center[.width-60[![](./fig/style/7-20-wuguanzhong.jpeg)]]
 
----
+???
 class: middle, center
-## 中国画：山水
+中国画：山水
 中国画；一条大江，旁边一座塔，一些天鹅，一位诗人站在江边，涛涛江水，奔赴向前，远处是大海，河水流入大海；庄严，浑穆，圣洁，光辉
 
 .center[.width-50[![](./fig/basic/3-river-2.png)]]
 
 ---
 class: middle, center
-## 艺术家
+## 中国画：山水
 
-中国
+请画一幅画，这是一幅在中国山川与河流的画作，有瀑布和云雾，图案密集，绿色和灰色的配色，轮廓细腻的阴影，壮丽的荒野，高度细致的环境背景。
 
-外国
+各种 AI 绘画工具效果比较
 
 ---
-## 艺术家：中国
+class: middle, center
+# 腾讯混元大模型
+.center[.width-70[![](./fig/style/7-20-mountain.jpeg)]]
+
+???
+画家眼中的AI绘画
+原创 满天星辰 黑糖聊AI 2024-01-28
+https://mp.weixin.qq.com/s/mqyw_EafdQ_ltavdd3Bwyg
+
+---
+class: middle, center
+## DALL-E3
+<!-- 请画一幅画，这是一幅在中国山川与河流的画作，有瀑布和云雾，图案密集，绿色和灰色的配色，轮廓细腻的阴影，壮丽的荒野，高度细致的环境背景。 -->
+
+.center[.width-70[![](./fig/style/7-20-mountain-dalle1.jpeg)]]
+
+???
+画家眼中的AI绘画
+原创 满天星辰 黑糖聊AI 2024-01-28
+https://mp.weixin.qq.com/s/mqyw_EafdQ_ltavdd3Bwyg
+
+This is a painting of a river in Chinese mountains, waterfall and clouds, in the style of densely patterned imagery, green and gray, delicate contoured shading, sublime wilderness, highly detailed environments, large scale murals.
+
+---
+class: middle, center
+## DALL-E3
+
+<!-- 请画一幅画，这是一幅在中国山川与河流的画作，有瀑布和云雾，图案密集，绿色和灰色的配色，轮廓细腻的阴影，壮丽的荒野，高度细致的环境背景。 -->
+
+.center[.width-70[![](./fig/style/7-20-mountain-dalle2.jpeg)]]
+
+---
+class: middle, center
+## 卢广京，Midjourney
+
+<!-- 请画一幅画，这是一幅在中国山川与河流的画作，有瀑布和云雾，图案密集，绿色和灰色的配色，轮廓细腻的阴影，壮丽的荒野，高度细致的环境背景。 -->
+
+.center[.width-100[![](./fig/style/7-20-mountain-mj1.jpeg)]]
+
+---
+class: middle, center
+## 卢广京，Midjourney
+
+<!-- 请画一幅画，这是一幅在中国山川与河流的画作，有瀑布和云雾，图案密集，绿色和灰色的配色，轮廓细腻的阴影，壮丽的荒野，高度细致的环境背景。 -->
+
+.center[.width-100[![](./fig/style/7-20-mountain-mj2.jpeg)]]
+
+---
+class: middle, center
+## 中国艺术家
+
+林风眠
+
+齐白石
+
+---
+class: middle, center
+## 艺术家：林风眠
+画一个仕女，彩色，水墨，手里拿着一朵莲花，坐禅，穿着蓝色的薄纱，林风眠，大师作品
+
+.center[.width-60[![](./fig/style/7-19-fenmian.jpeg)]]
+
+---
+class: middle, center
+## 艺术家：齐白石
+画一只猫，齐白石的绘画风格
+
+.center[.width-60[![](./fig/style/7-21-qibaishi2.jpeg)]]
+
+???
+class: middle, center
+艺术家：潘天寿
+黑白，中国水墨画，墨色很淡，薄雾，一朵牡丹花，潘天寿，大师作品
+.center[.width-60[![](./fig/style/7-21-qibaishi.jpeg)]]
+
+更多艺术家：中国
 - 唐：王维、阎立本、周昉
 - 宋：董源、李成、韩干、范宽、宋徽宗、米芾、李公麟、郭熙
 - 元：高克恭、赵孟頫、吴镇、黄公望、倪瓒、王蒙、王冕
@@ -172,23 +250,10 @@ class: middle, center
 - 清：弘仁、龚贤、八大山人、石涛、陈洪绶、郑板桥、金农
 - 近代：赵之谦、任伯年、吴昌硕、傅抱石、黄宾虹、李可染、李叔同、张大千、齐白石、陈师曾、潘天寿、林风眠、吴冠中、徐悲鸿
 
----
-## 艺术家：外国
+艺术家：外国
 - 米开朗琪罗、拉斐尔
 - 塞尚、梵高、莫奈
 - 维米尔
-
----
-class: middle, center
-## 艺术家：林风眠
-画一个仕女，彩色，水墨，手里拿着一朵莲花，坐禅，穿着蓝色的薄纱，林风眠，大师作品
-.center[.width-60[![](./fig/style/7-19-fenmian.jpeg)]]
-
----
-class: middle, center
-## 艺术家：潘天寿
-黑白，中国水墨画，墨色很淡，薄雾，一朵牡丹花，潘天寿，大师作品
-.center[.width-60[![](./fig/style/7-21-qibaishi.jpeg)]]
 
 ???
 - 基思·哈林
@@ -221,13 +286,17 @@ Roy Lichenstein, half-tone dots, comic detail, pop art
 
 ---
 ## 小结
-- 艺术家
 - 艺术风格
   - 古代壁画
   - 文艺复兴
   - 印象派
-  - 中国画
+- 中国画
+  - 腾讯混元
+  - DALL-E
+  - Midjourney
 - 艺术家
+  - 林风眠
+  - 齐白石
 
 ---
 class: middle, center

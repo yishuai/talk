@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 8：雕塑和手工
+## AI 绘画 3：雕塑和手工
 
 陈一帅，陈宇晗
 
@@ -11,31 +11,13 @@ class: middle, center
 <!-- .footnote[网络智能实验室] -->
 
 ---
-class: middle, center
-## 雕塑和手工
-
-雕塑、雕像
-
-手工、纸张和纺织品
-
----
-## 雕塑和雕像材料
-- 铜像、黄金、白银
-- 园林绿化、植物雕塑
-- 粘土、沙雕、兵马俑、瓷器、陶瓷、陶土
-- 大理石、玉雕、塑料、玻璃、冰雕、水晶、珠宝
-- 酥油、米糕、黄油
-
----
-class: middle, center
-## 铜像
-一个铜像，一个女孩，快跑，表情快乐
-.center[.width-60[![](./fig/style/13-2-bronz.jpeg)]]
-
-???
-一个精细复杂的立体模型、一个很酷的男孩、精细建模、微距摄影、移轴镜头
-
-一个精美的玻璃装饰品，一位勇敢的跑步者，在雪中奔跑，节日收藏品，工作室摄影，闪闪发光的深色背景
+## 内容
+- 雕塑
+  - 水晶、陶瓷、米糕、植物
+- 手工
+  - 刺绣、挂毯、娃娃
+  - 折纸、立体贺卡
+  - 3D 模型、乐高
 
 ---
 class: middle, center
@@ -112,10 +94,33 @@ Gold, silver, etc
 Butter sculpture
 
 ---
-## 手工、纸张和纺织品
-- 毛毡、挂毯、针织、刺绣
-- 阿米古鲁米娃娃
-- 纸艺、折纸、立体书、纸张压花
+class: middle, center
+## 铜像
+一个铜像，一个女孩，快跑，表情快乐
+.center[.width-60[![](./fig/style/13-2-bronz.jpeg)]]
+
+???
+一个精细复杂的立体模型、一个很酷的男孩、精细建模、微距摄影、移轴镜头
+
+一个精美的玻璃装饰品，一位勇敢的跑步者，在雪中奔跑，节日收藏品，工作室摄影，闪闪发光的深色背景
+
+---
+## 各种雕塑材料
+- 铜像、黄金、白银
+- 大理石、玉雕、塑料、玻璃、冰雕、水晶、珠宝
+- 粘土、沙雕、兵马俑、瓷器、陶瓷、陶土
+- 酥油、米糕、黄油
+- 园林绿化、植物雕塑
+
+---
+class: middle, center
+## 手工
+
+刺绣、挂毯、娃娃
+
+折纸、立体贺卡
+
+3D 模型、乐高
 
 ???
 Crafty arts: paper & textiles
@@ -132,19 +137,19 @@ Knitting patterns
 
 ---
 class: middle, center
-## 挂毯
-
-生成挂毯艺术风格，一个快乐的女孩在奔跑，周围环绕着彩色的花朵和蝴蝶，画面充满生机与活力
-
-.center[.width-60[![](./fig/style/13-15-guatan.jpeg)]]
-
----
-class: middle, center
 ## 刺绣
 
 生成刺绣艺术风格，一个快乐的女孩在奔跑，周围环绕着彩色的花朵和蝴蝶，画面充满生机与活力
 
 .center[.width-60[![](./fig/style/13-4-xiu.jpeg)]]
+
+---
+class: middle, center
+## 挂毯
+
+生成挂毯艺术风格，一个快乐的女孩在奔跑，周围环绕着彩色的花朵和蝴蝶，画面充满生机与活力
+
+.center[.width-60[![](./fig/style/13-15-guatan.jpeg)]]
 
 ---
 class: middle, center
@@ -168,18 +173,18 @@ class: middle, center
 
 画一张画，弹出式卡片，为同心未来空间孩子设计的，弹出式，生日快乐贺卡
 
-.center[.width-50[![](./fig/style/13-6-card.jpeg)]]
+.center[.width-60[![](./fig/style/13-6-card.jpeg)]]
 
 ???
 pop up HAPPY BIRTHDAY greeting card for a NFL fan
 
 ---
 class: middle, center
-## 等距 3D 效果
+## 3D 立体效果
 
 画一副画，描述一个卧室的等距 3D 效果
 
-.center[.width-50[![](./fig/style/13-7-iso3d.jpeg)]]
+.center[.width-70[![](./fig/style/13-7-iso3d.jpeg)]]
 
 ???
 Isometric 3D scene of New York with Statue of Liberty
@@ -190,48 +195,27 @@ class: middle, center
 
 画一幅画，用乐高积木，搭建一个电影《哈利波特》的虚构乐高套装，包括电影中的著名场景和中心人物
 
-.center[.width-50[![](./fig/style/13-8-lego.jpeg)]]
+.center[.width-60[![](./fig/style/13-8-lego.jpeg)]]
 
 ???
 a fictional Lego box set for the movie Kill Bill, include the famous scene from the movie and central characters
 
 ---
 ## 小结
-- 雕塑和雕像
+- 雕塑
+  - 大理石、玉雕、塑料、玻璃、冰雕、水晶、珠宝
+  - 粘土、沙雕、兵马俑、瓷器、陶瓷、陶土
+  - 酥油、米糕、黄油
   - 铜像、黄金、白银
   - 园林绿化、植物雕塑
-  - 粘土、沙雕、兵马俑、瓷器、陶瓷、陶土
-  - 大理石、玉雕、塑料、玻璃、冰雕、水晶、珠宝
-  - 酥油、米糕、黄油
 - 手工
-  - 毛毡、挂毯、针织、刺绣
-  - 阿米古鲁米娃娃
-  - 纸艺、折纸、立体书、纸张压花
+  - 刺绣、挂毯、娃娃
+  - 折纸、立体贺卡
+  - 3D 模型、乐高
 
 ---
 class: middle, center
 
-实验和作品分享 1
+实验和作品分享
 
-## 我想做的手工？
-
----
-class: middle, center
-
-实验和作品分享 2
-
-## 我想给谁做一个雕像？
-
----
-class: middle, center
-
-实验和作品分享 3
-
-## 我来捏一个面人
-
----
-class: middle, center
-
-实验和作品分享 4
-
-## 我做谁做一个娃娃？
+## 为谁塑像？
