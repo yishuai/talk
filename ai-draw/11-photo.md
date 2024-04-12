@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 9：摄影
+## AI 绘画 9：我拍照
 
 陈一帅，陈宇晗
 

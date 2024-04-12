@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 1：基础
+## AI 绘画 1：我画画
 
 陈一帅，陈宇晗
 

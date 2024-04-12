@@ -2,7 +2,7 @@ class: middle, center
 
 <!-- AI 伴我行 -->
 
-## AI 绘画 2：人物
+## AI 绘画 2：我是谁
 
 陈一帅，陈宇晗
 
