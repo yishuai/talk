@@ -1,6 +1,6 @@
 class: middle, center
 
-# AI 帮我忙 2：要良臣
+# AI 帮我忙 2：自己判断
 
 陈一帅、陈宇晗
 
@@ -308,3 +308,4 @@ I show students the prompt and break down its specifics or even distribute the p
 ChatGPT may generate inaccuracies, which become learning opportunities for both the students and the teacher. Have a section on Padlet or a shared Word document for students to share possible errors that may need further examination. Here are some questions that educators can use to guide this type of examination: How do we know that ChatGPT gave us a faulty response? Why did these issues surface? Can they be rectified? 
 
 When students read ChatGPT’s responses and discern inaccuracies, they further strengthen their critical reading skills and learn that ChatGPT is a tool, not a replacement for humans.  
+

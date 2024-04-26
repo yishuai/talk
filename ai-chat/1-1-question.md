@@ -73,11 +73,15 @@ class: middle, center
 
 ---
 class: middle, center
-# 问 AI
+# 各种 AI 助手
 
 腾讯混元助手
 
 阿里通义千问
+
+Kimi 智能助手
+
+百度文心一言
 
 ???
 - 微软 Copilot，[网址](https://copilot.microsoft.com/)
@@ -85,7 +89,7 @@ class: middle, center
 
 ---
 class: middle, center
-## 腾讯混元助手
+# 腾讯混元助手
 
 ## 微信小程序
 
@@ -93,7 +97,7 @@ class: middle, center
 
 ---
 class: middle, center
-## 腾讯混元助手
+# 腾讯混元助手
 
 ## 浏览器访问网站：https://hunyuan.tencent.com/
 
@@ -101,7 +105,7 @@ class: middle, center
 
 ---
 class: middle, center
-## 阿里通义千问
+# 阿里通义千问
 
 ## 苹果手机 APP 安装
 
@@ -109,7 +113,7 @@ class: middle, center
 
 ---
 class: middle, center
-## 阿里通义千问
+# 阿里通义千问
 
 ## 安卓手机 APP 安装
 
@@ -117,11 +121,35 @@ class: middle, center
 
 ---
 class: middle, center
-## 阿里通义千问
+# 阿里通义千问
 
 ## 浏览器访问网站：https://tongyi.aliyun.com/qianwen/
 
 .center[.width-50[![](./fig/qr-code/qrcode_tongyi.aliyun.com.png)]]
+
+---
+class: middle, center
+# Kimi 智能助手
+
+智能搜索
+
+文件分析
+
+辅助创作
+
+---
+class: middle, center
+# Kimi 智能助手
+
+微信小程序
+
+手机 APP 安装
+
+.center[.width-50[![](./fig/qr-code/kimi.png)]]
+
+---
+class: middle, center
+# AI 助手的原理
 
 ---
 # AI 助手的原理
@@ -134,6 +162,10 @@ class: middle, center
 ???
 
 https://www.urbanlibraries.org/files/AI_Leadership-Brief_October2023.pdf
+
+---
+class: middle, center
+# 如何用好 AI 助手
 
 ---
 # 上半句怎么说，很重要
@@ -149,7 +181,7 @@ https://www.urbanlibraries.org/files/AI_Leadership-Brief_October2023.pdf
 
 ---
 class: middle, center
-# 怎么说上半句
+# 说上半句的方法
 
 ## 人设 + 背景 + 任务 + 回答方法
 
@@ -157,13 +189,13 @@ class: middle, center
 class: middle, center
 # 指定它的人设
 
-你是一个肉店老板，非常专业
+你是一个店老板
 
-你是一个小学数学老师，非常专业
+你是一个小学数学老师
 
-你是一个职业篮球教练，非常专业
+你是一个职业篮球教练
 
-你是一个电冰箱，非常专业
+你是一个电冰箱
 
 ???
 Act like a…
@@ -183,73 +215,91 @@ Format
 
 ---
 class: middle, center
-## 指定它的人设
-
-#  你是中国国家篮球队教练。怎么才能进入国家队？
-
-???
-You are an expert designer; now write eight principles and laws of web design
-
----
-class: middle, center
-## 指定它的人设
-
-#  你是一位很懂得和孩子沟通的妈妈。怎么和孩子说，你要注意身体？
-
-???
-You are an expert designer; now write eight principles and laws of web design
-
----
-class: middle, center
-## 指定它的人设
-
-#  你是一位很有爱心、很温柔的孩子。怎么和妈妈说，不要着急，放宽心？
-
-???
-You are an expert designer; now write eight principles and laws of web design
-
----
-class: middle, center
-## 纸笔练习
-
-# 修改我们的问题
-
 # 指定它的人设
+
+##  你是中国国家篮球队教练
+
+怎么才能进入国家队？
+
+???
+You are an expert designer; now write eight principles and laws of web design
+
+---
+class: middle, center
+# 指定它的人设
+
+## 你是一位懂得和孩子沟通的妈妈
+
+怎么和孩子说，要少玩游戏？
+
+???
+You are an expert designer; now write eight principles and laws of web design
+
+---
+class: middle, center
+# 指定它的人设
+
+## 你是一位有爱心、温柔的孩子
+
+怎么和妈妈说，要注意身体？
+
+???
+You are an expert designer; now write eight principles and laws of web design
+
+---
+class: middle, center
+# 纸笔练习
+
+## 修改我们的问题
+
+## 指定它的人设
 
 ---
 class: middle, center
 # 给背景信息
 
-孩子为什么要注意身体呢？
-
-妈妈为什么会着急呢？
+孩子为什么要少玩游戏呢？
 
 ---
 class: middle, center
-## 给背景信息
+# 给背景信息
 
-# 你是一位很懂得和孩子沟通的妈妈。你的孩子大学 3 年级了，但是她为了考研，每天学习到很晚，怎么和孩子说，你要注意身体？
+你是一位很懂得和孩子沟通的妈妈
 
----
-class: middle, center
-## 给背景信息
+## 你的孩子小学 3 年级了，功课越来越多，每天学习到很晚
 
-# 你是一位很有爱心、很温柔的孩子。你已经大三了。为了考研，你每天学习到很晚。妈妈很关心你的身体。怎么和妈妈说，不要着急，放宽心？
+怎么和孩子说，你要少玩游戏？
 
 ---
 class: middle, center
-## 给背景信息
+# 给背景信息
 
-# 你是一位优秀篮球教练。我是一位 4 年级的小学生，身高 1 米 2，女生。我发现我投篮的时候，力气有点不够。我怎么办？
+你是一位有爱心、温柔的孩子。
+
+## 妈妈工作很忙
+
+怎么和妈妈说，要注意身体？
+
+---
+class: middle, center
+# 给背景信息
+
+你是一位优秀篮球教练
+
+## 我是一位 4 年级的小学生，我投篮的时候，总是投不进
+
+我怎么办？
 
 ???
 ，我发现最近的数学题好像比 3 年级的数学题更难了，比如这道题，。。。，请问我如何学习，才能会做这道题？
 
 ---
 class: middle, center
-## 给背景信息
+# 给背景信息
 
-# 我是一家肉店的老板，我有一家肉店，我最近收到反馈说：我的肉店给人的感觉很混乱。我怎么办？
+## 我是一家店的老板，我有一家店，顾客说我的店给人的感觉很混乱
+
+我怎么办？
 
 ???
 我是一名自由摄影师，我有一个作品集网站展示我的作品。我收到反馈说我的网站感觉很混乱，导航也很混乱。如何创建一个干净且用户友好的网页设计，突出我的摄影作品，同时保持访问者轻松导航？”
@@ -257,22 +307,28 @@ class: middle, center
 
 ---
 class: middle, center
-# 举例子
+# 如果表达清楚？
 
 ---
 class: middle, center
-## 举例子
+# 举例
 
-# 你是一个礼物店的金牌导购。请给我推荐一些送给我朋友的礼物。她喜欢户外活动、攀岩，还喜欢博物馆。
+你是一个礼物店的金牌导购。请给我推荐一些送给我朋友的礼物。
+
+## 她喜欢户外活动、攀岩、博物馆
 
 ???
 “Give me gift ideas for my friend. He loves to be outdoors, he loves to rock climb, and he likes museums.”
 
 ---
 class: middle, center
-## 举例子
+# 举例
 
-# 你是一家电视台的专业电视节目制作人。以下是一些我非常喜欢的电视节目：《蔡徐坤历险记》、《狂飙》、《红楼梦》。我不喜欢《庆余年》。请为我推荐一些我可能喜欢的电视节目。
+你是一家电视台的专业电视节目制作人
+
+## 以下是一些我喜欢的节目：《蔡徐坤历险记》、《狂飙》。我不喜欢《僵尸》
+
+请为我推荐一些我可能喜欢的电视节目
 
 ???
 “Here are some examples of TV shows I really like: Breaking Bad, Peaky Blinders, The Bear. I did not like Ted Lasso. What other shows do you think I might like?”
@@ -297,36 +353,40 @@ What this also means is that current GPT are not capable of reading many PDFs at
 
 ---
 class: middle, center
-## 纸笔练习
+# 纸笔练习
 
-# 修改问题
+修改问题
 
-# 加背景信息、举例子
-
----
-class: middle, center
-# 问得具体
+## 加背景信息、举例
 
 ---
 class: middle, center
-## 问得具体
+# 问具体的问题
 
-# 你是 xxx，我是 xxx。我应该如何吃饭、锻炼、休息、练习，才能成为灌篮高手？
+---
+class: middle, center
+# 问具体的问题
+
+## 我应该如何吃饭、锻炼、休息、练习，才能成为灌篮高手？
 
 ???
 我如何成为灌篮高手？
 
 ---
 class: middle, center
-## 问得具体
+# 问具体的问题
 
-# 我是一家肉店的老板，我有一家肉店，我最近收到反馈说：我的肉店给人的感觉很混乱。如何创建一个干净且用户友好的肉店，突出我的肉的健康和新鲜，同时保持顾客轻松和愉快地购买？
+我是一家店的老板，我最近收到反馈说：我的店给人的感觉很混乱。
+
+## 如何让我的店干净、友好、健康、新鲜，让顾客轻松和愉快地购买？
 
 ---
 class: middle, center
-## 问得具体
+# 问具体的问题
 
-# 你是 xxx，我是 xxx。请问如何写我的入学申请书？请给我下面的建议：1）应该包含的各部分内容；2）应该用的语气；3）应该避免的内容
+你是 xxx，我是 xxx。请问如何写我的入学申请书？
+
+## 请给我这些建议：1）应包含的内容；2）应用的语气；3）应避免的内容
 
 ???
 如何写我的入学申请书？
@@ -334,25 +394,27 @@ class: middle, center
 
 ---
 class: middle, center
-## 练习
+# 纸笔练习
 
-# 修改问题
+修改问题
 
-# 问得具体
+# 问具体的问题
 
 ---
 class: middle, center
 # 让它知道该怎么回答
 
+你是谁
+
+怎么回答
+
 ---
 class: middle, center
 # 你是谁
 
----
-class: middle, center
-## 你是谁
+## 我是一个小学二年级的学生
 
-# 我是一个小学二年级的女孩，请向我解释什么是元宇宙。
+请向我解释什么是元宇宙
 
 ???
 Summarize content you are provided with for a second-grade student.
@@ -370,9 +432,7 @@ Can you tell me how to build a wedding website with examples?
 class: middle, center
 # 设定回答的语气
 
-## 写一封搞笑的、给妈妈的信
-
-## 写一封悲伤的、给同学的信
+## 请用搞笑的语气
 
 ???
 funny, sad, or professional
@@ -383,7 +443,7 @@ Write a funny marketing campaign email copy.
 class: middle, center
 # 设定回答长度
 
-## 用大约两句话回答
+## 用两句话回答
 
 ???
 Write a meta description within 130 characters for the blog- best no-code platforms.
@@ -394,10 +454,16 @@ class: middle, center
 
 ## 表格、代码、图片
 
-你是一个专业设计师，请用表格形式，给出你最常用的四个设计工具及其特点。
+你是一个专业设计师，请用表格形式，给出你最常用的四个设计工具及其特点
 
 ???
 Provide a list of best UX design tools. Write their key features in bullet points.
+
+---
+class: middle, center
+# 高级技巧
+
+一步步想
 
 
 ---
@@ -406,7 +472,7 @@ class: middle, center
 
 会想得更周到
 
-？？？
+???
 不是简单地要一个结果，而是要它给出自己思考的过程
 - 提供“思路”，给出步骤
 思维链
@@ -415,9 +481,11 @@ You can also ask ChatGPT to explain complex topics or to act as a cook-book step
 
 ---
 class: middle, center
-## 请一步一步想
+# 请一步一步想
 
-巴塞罗那举办奥运会那年，哪支欧洲足球队赢得了冠军联赛？请一步一步想
+巴塞罗那举办奥运会那年，哪支欧洲足球队赢得了冠军联赛？
+
+## 请一步一步想
 
 ???
 In chain of thought prompting, we explicitly encourage the model to be factual/correct by forcing it to follow a series of steps in its “reasoning”.
@@ -443,15 +511,11 @@ I now ask ChatGPT to use the same format with a different question by using the 
 
 ---
 class: middle, center
-# 技巧
+# “请继续”
 
----
-class: middle, center
-# 说“请继续”
+如果说到中间，它停了
 
-## 如果说到中间，它停了
-
-## 说：“请继续”，它就会接着说
+说：“请继续”，它就会接着说
 
 ???
 When generating a long set of results, ChatGPT may time out after 60 seconds.
@@ -502,15 +566,19 @@ Tell me something I don't know! --size 5000 --temperature 1 --category fun
 class: middle, center
 # 一个聊天里，AI 会记得前面的对话内容
 
+.center[.width-30[![](./fig/1-program.png)]]
+
 ---
 class: middle, center
 # 问它还需要什么信息
 
+我还能给你提供些什么信息？
+
 ---
 class: middle, center
-# 请它帮我们问
+# 让它帮我们问
 
-## 你是一个特别优秀的提问者。对上面我们讨论过的问题，你会怎么问？
+## 你很会问问题。对上面这个问题，你会怎么问？
 
 ???
 Asking ChatGPT to provide the best prompts for ChatGPT
@@ -518,12 +586,6 @@ Asking ChatGPT to provide the best prompts for ChatGPT
 Even though we have explored some of the best prompts, you may still need other ones to complete different tasks. One of the best ways to do that is to make ChatGPT write the best prompt for your specific need to get the ideal answer!
 
 You can use this prompt to have ChatGPT working as a prompt generator: “You are a prompt generator that generates the best prompts to get the best possible answers from an AI. Generate a prompt that does the following:”
-
----
-class: middle, center
-# 不补充信息，直接重答
-
-## 如果不喜欢某个回答，点击“重新生成”的按钮，重新生成
 
 ---
 class: middle, center
@@ -577,13 +639,21 @@ Break down your prompts into simple tasks which do not contain too many complex 
 
 ---
 class: middle, center
+# 不补充信息，直接重答
+
+## 点“重新生成”按钮
+
+.center[.width-30[![](./fig/1-program.png)]]
+
+---
+class: middle, center
 # 换话题时，新建聊天
 
-## 换话题时，别再用老聊天接着聊，而是新建一个聊天，避免干扰
-
-让我们换个话题
+.center[.width-30[![](./fig/1-program.png)]]
 
 ???
+让我们换个话题
+换话题时，别再用老聊天接着聊，而是新建一个聊天，避免干扰
 Can you now provide me some best practices on designing a website footer based on the previous conversation about my target audience?
 
 Keeping state
@@ -598,114 +668,6 @@ Language models themselves don’t keep track of state. However, applications su
   - 用计算器、搜索引擎
 
 ---
-class: middle, center
-# 案例：改善营养
-
-## 您是一位专业的学习生活习惯的培养师，擅长与孩子打交道。
-
-## 我是一名 12 年级学生，想要改善营养。
-
-## 我现在不吃蔬菜，经常吃辣条。
-
-## 请为我提供 5 个建议，帮助我。
-
-???
-Example Prompt (Student Use)
-
-示例提示（学生使用）
-
-您是一位专业的心理健康教育者和教学设计师，擅长与青少年合作，帮助他们成功建立健康的生活方式。我是一名 12 年级学生，正在寻求改善营养状况。目前我很少有时间健康饮食，经常吃快餐。我目前正在使用这些策略：在背包里放一块蛋白质棒，并尝试在放学前做午餐。您的任务是提供一份包含 5 个想法的清单，以帮助我实现目标。
-
-You are an expert mental health educator and instructional designer skilled in working with teens to help them successfully build a healthy lifestyle. I am a 12th grade student that is looking to improve my nutrition. Currently I have little time to eat healthy and often eat fast food. I am currently using these strategies: keeping a protein bar in my backpack and trying to make my lunch before school. Your task is to provide a list of 5 ideas to help me meet my goals.
-
----
-class: middle, center
-# 答案
-
-## 亲爱的高中生，了解到你想要改善饮食习惯以获得更好的营养，我非常支持你！作为你的学习生活习惯培养师，我会给你一些实用的建议，帮助你逐步改变饮食习惯，让身体更加健康和有活力。以下是我的五条建议：
-
----
-class: middle, center
-# 建议一：探索蔬菜的美味
-
-## 我知道你可能对蔬菜有些抗拒，但请相信我，有很多方法可以让它们变得非常美味。尝试将蔬菜与你喜欢的食物搭配，比如做成沙拉、加入炒饭或者作为披萨的配料。逐渐增加蔬菜的种类和摄入量，让你的味蕾适应并享受它们带来的清新口感。
-
----
-class: middle, center
-# 建议二：制定健康的零食计划
-
-## 辣条虽然美味，但营养价值不高，而且含盐量高。为了满足你的口腹之欲，可以准备一些健康的零食，如坚果、酸奶、水果或全麦饼干。将它们放在容易看到和触及的地方，这样在饥饿时你会更倾向于选择它们。
-
----
-class: middle, center
-# 建议三：学习烹饪技巧
-
-## 掌握一些基本的烹饪技巧可以让你在家中制作出既营养又美味的餐点。向家人请教或观看在线教程，学习如何炒、煮、烤或蒸蔬菜。一旦你掌握了这些技巧，你就可以根据自己的口味创造出各种美味的菜肴。
-
----
-class: middle, center
-# 建议四：养成定时定量的饮食习惯
-
-## 保持规律的饮食时间对于维持良好的消化系统和稳定的能量水平非常重要。每天三餐定时进食，并尽量避免暴饮暴食。此外，学会倾听身体的饥饿和饱腹信号，以便合理控制食量
-
----
-class: middle, center
-# 补充信息，要求重答
-
-##  我喜欢吃辣。请换个建议，让我吃辣。
-
-???
-Additional Prompting Strategies
-
-Use the chatbot to help your students achieve their goal by creating a schedule, monthly plan, SMART goals, etc.
-
-Add specific information whenever possible to personalize the chatbot’s responses avoiding personally identifiable information. For example, ask for suggestions for management of stress and anxiety for students with ADHD who find meditation and sitting still very difficult. Or meal prep ideas when you have specific food allergies and preferences.
-
-Have the chatbot help you create lessons around specific mental health topics that your students are struggling to comprehend.
-
----
-class: middle, center
-# 回答
-
-## 当然可以！既然你喜欢吃辣，我们可以尝试将辣味与健康饮食结合起来。以下是一些建议，帮助你在享受辣味的同时，也能获得充足的营养：
-
----
-class: middle, center
-# 建议一：选择健康的辣味食材
-
-## 尝试使用新鲜的辣椒、姜、蒜等天然辣味食材来增加菜肴的辣味。这些食材不仅能为你的菜肴增添风味，还含有抗氧化剂和其他有益健康的成分。避免过多食用加工过的辣味食品，如辣条，因为它们往往含有较多的钠和不健康的添加剂。
-
----
-class: middle, center
-# 建议二：辣味与蔬菜的完美结合
-
-## 将你喜欢的辣味与各种蔬菜搭配，创造出美味而营养的菜肴。例如，你可以尝试制作辣味炒蔬菜、辣味凉拌黄瓜或辣味番茄汤。这样可以确保你在享受辣味的同时，也摄入了足够的维生素和矿物质。
-
----
-class: middle, center
-# 建议三：学习制作健康的辣味调味料
-
-## 自己制作健康的辣味调味料，如辣椒酱或辣椒油，可以更好地控制食材的新鲜度和口感。尝试使用橄榄油、醋、柠檬汁等低钠食材来平衡辣味，同时增加风味。这样你可以在享受美食的同时，减少钠的摄入。
-
----
-class: middle, center
-# 建议四：适量食用辣味食物
-
-## 虽然辣味食物能带来愉悦的口感，但过量食用可能对胃肠道造成刺激。因此，建议适量食用辣味食物，并在每餐中保持均衡的饮食结构。通过控制辣度，你可以更好地享受辣味带来的乐趣，同时保持身体健康。
-
----
-class: middle, center
-# 建议五：探索全球辣味美食
-
-## 世界各地的饮食文化中都有独特的辣味美食。尝试探索不同国家和地区的辣味菜肴，如墨西哥的辣椒炖肉、印度的咖喱鸡或泰国的柠檬蒸鱼。这样可以让你在品尝新口味的同时，也能获得不同的营养成分。
-
----
-class: middle, center
-# 总结
-
-## 记住，享受辣味并不一定意味着牺牲健康。通过选择健康的辣味食材和合理的饮食结构，你可以在保持身体健康的同时，尽情享受辣味带来的美食体验！
-
----
 ## 小结
 
 - 有问题问 AI
@@ -718,17 +680,3 @@ class: middle, center
   - 请继续、问还要什么、请帮问、补充信息、请重答
   - 换话题时，新建聊天
 
----
-class: middle, center
-# 实践和分享
-
-???
-
-class: middle, center
-实践和分享
-
-到图书馆找一本书，问问它，这本书怎么样，适不适合自己
-
-实践和分享
-
-告诉它，你喜欢的书、电影、游戏、漫画，请它推荐，并且解释为什么会这么推荐

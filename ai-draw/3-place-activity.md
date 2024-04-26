@@ -30,7 +30,7 @@ class: middle, center
 ---
 class: middle, center
 ## 户外：植物园
-画一群孩子，在北京植物园的山中，湖边，快乐地玩爽，放风筝，儿童画风格，远景
+画一群孩子，在北京植物园的山中，湖边，快乐地玩耍，放风筝，儿童画风格，远景
 
 .center[.width-60[![](./fig/style/3-18-mountain.jpeg)]]
 
