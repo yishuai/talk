@@ -106,6 +106,11 @@ Draft a press release marketing copy for your product
 "Write an email pitching this unit to my fellow first grade teachers."
 
 ---
+## 告示写作
+
+你是一位写作能力很强的秘书。你的老板是一家餐厅的负责人。她即将离开北京，去新加坡旅行。因此，在她离开的这段时间内，餐厅将暂停营业一周。请为你的老板写一封轻松、简洁、标题诙谐的告示，告诉餐厅的顾客，这一情况，并欢迎大家等一周后，餐厅再次开放时，继续光临餐厅
+
+---
 # 内容
 
 - 营销策划、口号、文案
