@@ -1,5 +1,5 @@
 class: middle, center
-# AI 帮我忙 3：自己判断
+# AI 解难题 3：自己判断
 
 ## 成为专家
 

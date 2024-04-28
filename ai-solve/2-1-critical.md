@@ -1,6 +1,6 @@
 class: middle, center
 
-# AI 帮我忙 2：自己判断
+# AI 解难题 2：自己判断
 
 陈一帅、陈宇晗
 

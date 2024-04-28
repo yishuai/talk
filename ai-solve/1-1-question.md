@@ -1,5 +1,5 @@
 class: middle, center
-# AI 帮我忙 1：问问题
+# AI 解难题 1：问问题
 
 陈一帅、陈宇晗
 

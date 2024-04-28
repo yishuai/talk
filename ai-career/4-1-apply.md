@@ -1,5 +1,5 @@
 class: middle, center
-# AI 助手 4：求职和申请
+# AI 帮工作 1：求职和申请
 
 陈一帅、陈宇晗
 
