@@ -1,8 +1,6 @@
 class: middle, center
 
-## AI 帮工作：计划
-
----
+# AI 帮工作 6：计划
 
 陈一帅、陈宇晗
 
@@ -13,7 +11,7 @@ class: middle, center
 .footnote[网络智能实验室] -->
 
 ---
-## 制定计划
+# 制定计划
 
 - 营销活动计划
 - 一天日程计划
@@ -22,11 +20,11 @@ class: middle, center
 
 ---
 class: middle, center
-## 营销活动计划
+# 营销活动计划
 
 下面是我们店铺即将举行的营销活动的信息。请生成详细的活动计划，包括：日期、时间和活动类型。
 
-？？？
+???
 Create a three-month social media strategy for an organic snack company. The company is active on Twitter, Facebook, TikTok, and Instagram.
 
 Develop a content plan to increase followers for [DESCRIBE BRAND] on Twitter. What metrics should we track to measure social media success? How often should we post? What type of content should we focus on?
@@ -34,8 +32,7 @@ Develop a content plan to increase followers for [DESCRIBE BRAND] on Twitter. Wh
 feed it a few details about upcoming events or campaigns and then let the AI generate dates, times, and content types for your brand.
 
 ---
-class: middle, center
-## 一天日程计划
+# 一天日程计划
 
 请帮助我计划明天的日程。
 
@@ -47,7 +44,7 @@ class: middle, center
 
 下面，请根据我的任务的优先级，为我做一个明天的日程安排。
 
-？？？
+???
 ChatGPT, I need your help planning my day tomorrow.
 
 First, please list all my scheduled meetings and deadlines from my calendar. 
@@ -60,16 +57,15 @@ Lastly, based on the priority of the tasks, can you create a task list in the or
 
 ---
 class: middle, center
-## 日程安排
+# 日程安排
 
 请看看我和团队成员的日程表，下周什么时候能够安排我们的团队会议。该会议需要一个小时的时间。
 
-？？？
+???
 ChatGPT, can you schedule a team meeting for next Tuesday at 3 PM in my calendar? Also, set a reminder for me to prepare the meeting agenda by Monday afternoon.
 
 ---
-class: middle, center
-## 旅行计划
+# 旅行计划
 
 你是一位对新加坡十分熟悉的导游。请作为我们旅行的计划者。请根据我下面给出的旅行信息，计划我们的行程。
 
@@ -77,7 +73,7 @@ class: middle, center
 
 它回答后，可以进一步要求修改：你能加入更多与食物相关的活动吗？
 
-？？？
+???
 Now, let’s input the specifics of the trip. I’m telling ChatGPT that 
 
     the trip is to Cabo, Mexico from December 18-25th. 
@@ -143,7 +139,7 @@ You will provide a specific itinerary with the vacation itinerary
 帮助人们更好地理解和完成学习任务，通过实现各阶段的里程碑, 稳定前进
 
 ???
-## Profile :
+# Profile :
 - author: 李继刚
 - version: 0.2
 - language: 中文
@@ -151,18 +147,18 @@ You will provide a specific itinerary with the vacation itinerary
 - 基于用户提供的基本信息进展拆解, 不要询问其它信息
 
 ---
-## 要求
+# 要求
 - 执行步骤不要过多，导致任务负担过重 (3 至 5 个为佳)
 - 帮助用户更有效地管理和完成学习任务
 - 提供一个清晰的学习道路，通过设定的阶段里程碑。
 
-## 能力
+# 能力
 - 充分理解用户要学习的技术内容
 - 可以有效划分任务并设置里程碑
 - 了解任务的各个阶段和对应难度的生活应用目标
 
 ---
-## 示例
+# 示例
 - 西班牙语初学者分成五级，每一级都有一个具体的现实生活中的表现
 1. 能在餐馆里用西班牙语点菜；
 2. 能用西班牙语和出租车司机进行简单的对话；
@@ -171,7 +167,7 @@ You will provide a specific itinerary with the vacation itinerary
 5. 读懂一本幼儿园级别的西班牙语书。
 
 ---
-## 示例
+# 示例
 - 学习驾驶技术分为四个境界，每一境界都具有具体的实际操作的目标。
 1. 第一境界是你够熟练地在训练场里绕着圈开；
 2. 第二境界是你会走交通信号、路上有别的车不紧张，能从市区中的一个点开到另一个点；
@@ -179,7 +175,7 @@ You will provide a specific itinerary with the vacation itinerary
 4. 第四境界就是你能开一个小时的车，其中大部分时间是在高速公路上，去机场接送一个人。
 
 ---
-## 步骤
+# 步骤
 - 输入: 用户提供想要学习掌握的技术任务
 - 分析: 一步步思考用户正在尝试完成的任务及其整体目标
 - 任务: <技术项>
