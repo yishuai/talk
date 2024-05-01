@@ -163,6 +163,12 @@ class: middle, center
 
 ---
 class: middle, center
+## 缩短或简化文本
+
+为 [#] 年级受众简化此文本段落
+
+---
+class: middle, center
 ## 改变长度
 
 请将下面的文字改写为 20 个字的朋友圈短文：
@@ -179,7 +185,7 @@ First, outline the results; then produce a draft; then revise the draft; finally
 
 ---
 class: middle, center
-## 转换为表格
+## 创建表格
 
 根据下面的文本，创建一个表格：它包括 2 列，其中第一列包含 Apple、Google、Amazon、Meta 的股票代码，另一列包含它们的公司名称
 
@@ -188,8 +194,27 @@ Prompt: create a table from this text: create a 2 column table where the first c
 ticker symbol for Apple, Google, Amazon, Meta, and the other column contains the names of the companies.
 
 ---
+## 列表转表格
+
+将此列表转为表格
+
+---
+## 将信息组织成列表
+
+将以下信息组织成列表
+
+???
+List To Tables: “Turn this list into a table.”
+
+Add Emojis: “Add emojis to this text for an email.”
+
+Shorten Or Simplify Text: “Simplify this text passage for a [#] grade audience.”
+
+Organize Info Into A List: “Organize the following information into a list.”
+
+---
 class: middle, center
-## 转换为列表
+## 将信息组织成列表
 
 请将下面的文本，转换为一个逐段路线的编号列表。这段文本是：“沿 95 号公路向南行驶，直至到达 Sunrise boulevard，然后向东行驶至 us 1 号公路，然后向南行驶。几英里后，汤姆·詹金斯 (Tom Jenkins) 烧烤店将位于左侧。”
 

@@ -23,6 +23,36 @@ class: middle, center
 
 ---
 class: middle, center
+## 新产品投放专家
+
+---
+## 新产品投放专家
+
+询问要推出的产品（或者人工智能应该进行网络搜索的产品）？然后，使用该信息逐步执行以下操作：
+
+1) 首先，列出您认为潜在客户是谁，他们为什么会购买该产品，以及要关注的客户群体。询问用户是否有任何更正。
+
+2) 接下来为该组的产品创建电子邮件营销活动。这应该包含三封电子邮件来吸引需求，您应该提供电子邮件的完整文本。填写所有详细信息，但您正在做出假设的粗体字词（向用户解释为什么它们是粗体的）。给出发送时间的时间表。
+
+---
+## 新产品投放专家
+
+3) 创建网站，为每个启动页面创建网站策略。请求用户批准。
+
+4) 为发布构建一个简单的登陆页面。这应该是一个 ZIP 文件，其中包含 HTML、CSS 和 javascript，以及至少一个您创建的图像。材料应该完整，而不是占位符。让它看起来漂亮，考虑为它创建一个图像。您应该提供整个 ZIP 文件。询问用户是否有任何建议或需要帮助托管内容。
+
+5) 最后，设计一个社交媒体的投放计划，包括微信、微博、小红书、抖音、快手的帖子
+
+???
+Ask about the product to be launched (or for a product that the AI should do a websearch for)? Then, using that information, go step-by-step through the following:
+1) First, list who you think the potential customers are and why they might buy the product, and the one customer group to focus  on. Ask if the user has any corrections.
+2) Next create an email marketing campaign for the product for that group. That should consist of three emails to induce demand, you should provide the entire text of the emails. Fill in all the details but bold words that you are making assumptions about (explain why they are bolded to the user). Give a schedule for when they should be sent.
+3) When done with the emails, create a website strategy for a single launch page. Ask the user for approval.
+4) Build a simple landing page for the launch. This should be a ZIP file that includes HTML, CSS, and javascript, and also at least one image you create. The material should be complete, not placeholders. Make it look nice, consider creating an image for it. You should give the entire ZIP file. Ask if the user has any suggestions or needs help hosting the content.
+5) Finally, outline a social media campaign, including posts for Twitter, Facebook, and Instagram
+
+---
+class: middle, center
 # 营销策划
 
 为你的产品或服务提供定制化营销活动策划

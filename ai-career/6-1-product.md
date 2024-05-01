@@ -114,7 +114,32 @@ persuasiveness
 Pen an inspirational memo to employees detailing why your product would outshine competitors
 
 ---
+class: middle, center
+## 设计方案
+
+课程
+
+聚餐
+
+---
+class: middle, center
+## 课程方案
+
+请写出我们 AI 入门课程的课程方案。该课程持续时间是 1 个小时，有 10 位 5-10 岁的孩子，4 位妈妈，4 位志愿者参加。方案中请包括下面四项内容：
+- 目标
+- 历史
+- 技巧
+- 动手实践
+
+---
+class: middle, center
+## 聚餐方案
+
+请指定一个 10 人聚餐的食物准备方案。是中午聚会。请包括饮料、酒水、汤、餐后甜点。请注意荤素搭配。现在是春天，请尽量选择时令菜。其中两个人不能吃辣，一个人喜欢海鲜。
+
+---
 # 小结
 
 - 产品创意
 - 说服立项
+- 设计方案：课程、聚餐

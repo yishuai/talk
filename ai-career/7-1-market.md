@@ -71,6 +71,12 @@ to stimulate your brainstorming session, offering different perspectives and cre
 
 ---
 class: middle, center
+## 营销方案
+
+请为我们肉店制定为期三个月的营销方案，以增加我们店在皮村的知名度，特别是抖音、微信等网络社交平台上的粉丝数。请在计划中包括：应该跟踪哪些指标来衡量营销效果？应该多久发帖一次？应该发表什么类型的内容？应该举办什么活动？
+
+---
+class: middle, center
 # 营销文案
 
 ## 为产品起草营销文案、新闻稿
