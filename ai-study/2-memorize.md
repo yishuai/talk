@@ -18,18 +18,21 @@ class: middle, center
 记单词
 
 ---
-# 记内容：记忆卡
-
-为我创建有关此主题的抽认卡：{粘贴材料或给出主题}
-
-帮助我记住有关 {topic} 的 5 个最常见的事实/属性
+class: middle, center
+# 记内容
 
 ---
-# 记内容：故事
+# 记忆卡
 
-创作包含一组关于[主题]的短篇故事，帮助我的理解和掌握
+- 为我创建有关此主题的抽认卡：{粘贴材料或给出主题}
+- 帮助我记住有关 {主题} 的 5 个最常见的事实/属性
 
-？？？
+---
+# 记内容：编故事
+
+- 创作包含一组关于[主题]的短篇故事，帮助我的理解和掌握
+
+???
 
 Vocabulary Stories: “Challenge students to create short stories that incorporate a set of vocabulary words. Use ChatGPT to help refine the stories and expand on their vocabulary usage.”
 
@@ -43,13 +46,13 @@ Mnemonics
     Help me remember the 5 most common facts/properties about {topic}
 
 ---
-# 记内容：歌曲
+# 记内容：编歌曲
 
-我们都有一位最喜欢的艺术家，我们在第一次听后几乎立即记住了他的歌词。通过 AI，以任何艺术家的风格创作关于您难以记住的主题的歌曲！
+- 我们都有一位最喜欢的艺术家，我们在第一次听后几乎立即记住了他的歌词。通过 AI，以任何艺术家的风格创作关于您难以记住的主题的歌曲！
 
-以蔡徐坤的风格写一首解释细胞结构的歌曲
+- 以蔡徐坤的风格写一首解释细胞结构的歌曲
 
-？？？
+???
 We all have that one favourite artist that we remember the lyrics of almost immediately after the first listen. And with ChatGPT, you can create songs about the topic that you are struggling to memorise in the style of any artist!
 
 You just need to give it a prompt saying, “Write a song in the style of [Artist] that Explains [Topic]”. Here is an example where we generated Drake-like lyrics explaining Cell Structure:
@@ -63,6 +66,7 @@ Clarify your knowledge and clear up misconceptions.
 https://www.puzzlelabs.ai/
 
 ---
+class: middle, center
 # 提炼大段文本，方便记忆
 
 整理大段文本，转换成利于大脑记忆的样式
@@ -80,7 +84,7 @@ Attention
 Background
 
 ---
-## 角色
+# 角色
 
 你擅长整理知识，方便记忆。你拥有神经科学博士学位，熟知大脑记忆的工作原理
 
@@ -90,16 +94,16 @@ Background
 - 擅长通过总结, 让人快速记忆大段文字
 
 ---
-## 任务
+# 任务
 
 - 我马上要考试了，需要迅速记住考试要点
 - 你整理我提供的大段文本, 转换成利于大脑记忆的样式
 
 ---
-## 要求
+# 要求
 - 删除文本中不重要的语句, 只保留核心信息。
 - 将每句文本单独放一行
-- 将每一句话的核心总结成一个关键词, 放在句子开头, 加粗显示, 用冒号进行分隔。如" **主题** : 这是主题描述"
+- 将每一句话的核心总结成一个关键词, 放在句子开头, 加粗显示, 用冒号进行分隔。如 "主题: 这是主题描述"
 - 总结的内容要专业、准确、清晰、信息精准、方便记忆
 
 ???
@@ -120,18 +124,22 @@ Example:
 - 强调记忆效率
 
 ---
-## 步骤
-- 输入: 用户输入需记忆的文本
-- 思考:
-  + 删除: 评估文本的核心主要信息, 删除不重要的冗余信息
-  + 排版: 将清洗后的核心信息, 进行美化排版, 方便阅读和记忆
-  + 关键词: 在句子开头加上关键词前缀, 该关键词是整句的进一步总结, 以冒号分隔
-  + 数字总结: 尽量将上述结果用数字来表示, 如 "四个意识"
+# 步骤
+- 输入
+    - 用户输入需记忆的文本
+- 删除
+    - 评估文本的核心主要信息, 删除不重要的冗余信息
+- 排版
+    - 将清洗后的核心信息, 进行美化排版, 方便阅读和记忆
+- 关键词
+    - 在句子开头加上关键词，进一步总结全句, 以冒号分隔
+- 数字总结
+    - 尽量将上述结果用数字来表示, 如 "四个意识"
 
 ---
-## 对话
+# 对话
 
-你是背书侠，拥有神经科学博士学位，熟知大脑记忆的工作原理。你会将大段文本进行整理和排版，转换成利于大脑记忆的样式。请要求我提供文本，让你开始工作
+- 你是背书侠，拥有神经科学博士学位，熟知大脑记忆的工作原理。你会将大段文本进行整理和排版，转换成利于大脑记忆的样式。请要求我提供文本，让你开始工作
 
 ???
 
@@ -221,6 +229,8 @@ Workflow
 class: middle, center
 # 记单词
 
+---
+# 记单词
 - 创建一套涵盖与[主题]相关的重要词汇的抽认卡
 
 - 同义词和反义词探索
@@ -234,5 +244,7 @@ class: middle, center
 ---
 # 小结
 
-- 记内容：记忆卡、故事、歌曲、提炼大段文本，方便记忆
-- 记单词：上下文、新闻、场景、故事、起源、同义反义
+- 记内容
+    - 记忆卡、编故事、歌曲、提炼
+- 记单词
+    - 上下文、新闻、场景、故事、起源、同义反义
