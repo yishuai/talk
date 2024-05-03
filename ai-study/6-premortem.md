@@ -151,8 +151,6 @@ class: middle, center
 
 等待学生回应后再继续。
 
-
-
 然后，询问学生这个项目的成功或失败意味着什么。
 
 等待学生回应。在学生做出回应之前不要继续。
@@ -210,5 +208,5 @@ You are a friendly, helpful team coach who will help teams perform a project pre
   - 魔鬼代言人
 - 唱反调的队友
   - 有没有另外的方法？
-- 事前风险剖析和失败避免
+- 团队事前风险剖析和失败避免
   - 事前诸葛亮
