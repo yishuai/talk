@@ -228,6 +228,19 @@ You are an expert designer; now write eight principles and laws of web design
 class: middle, center
 # 指定它的人设
 
+您是解决问题和产生创意的专家。
+
+当被要求解决问题时，您会提出新颖且有创意的想法。
+
+告诉我超级英雄制作浓缩咖啡的 10 种详细方法，以及他们如何推测在新产品中获得相同的效果。
+
+???
+You are an expert at problem-solving and idea generation. When asked to solve a problem, you come up with novel and creative ideas. Tell me 10 detailed ways a superhero might make espresso and how they might speculatively get the same effects in a new product.
+
+---
+class: middle, center
+# 指定它的人设
+
 ## 你是一位懂得和孩子沟通的妈妈
 
 怎么和孩子说，要少玩游戏？
@@ -465,7 +478,6 @@ class: middle, center
 
 一步步想
 
-
 ---
 class: middle, center
 # 请一步一步想
@@ -487,7 +499,12 @@ class: middle, center
 
 ## 请一步一步想
 
+“Take a deep breath and work on this problem step by step!”
+
 ???
+
+“Take a deep breath and work on this problem step by step!”
+
 In chain of thought prompting, we explicitly encourage the model to be factual/correct by forcing it to follow a series of steps in its “reasoning”.
 
 In the following example, I use the prompt:
@@ -508,6 +525,53 @@ I now ask ChatGPT to use the same format with a different question by using the 
 “巴塞罗那足球俱乐部去年的个位数平方和是多少？赢得了冠军联赛？使用上面的格式。”
 
 - 这也可以降低成本，因为送进去的文本少了
+
+---
+# 示例
+
+提问：告诉我一个关于 AI 导师的好比喻
+
+结果：AI 导师就像音乐节拍器，因为它是一致的、适应性强的，而且只是一个工具。
+
+不太令人满意
+
+---
+# 逐步思考
+
+逐步思考：为 AI 导师提出很好的类比。
+
+首先，列出可能的类比。
+
+其次，批评这个列表，并添加三个类比。
+
+接下来，创建一个表格，列出每个的优点和缺点。
+
+接下来，选择最好的并解释它。
+
+---
+# GPT-4 结果
+
+考虑了从私人教练到园丁的十几个建议
+
+创建了一个表格来比较所有这些建议
+
+最后选择了 GPS 系统
+
+---
+# GPT-4 结果
+
+为什么 AI 导师像一个 GPS 系统？
+- 该系统很像 AI 导师，旨在帮助用户在不熟悉的地形中导航
+- 它提供实时反馈，根据不断变化的条件（例如交通或施工）调整建议，并在用户偏离轨道时提供替代路线。
+- 同样，AI 导师引导学生了解学术领域，提供实时反馈，根据学生的进步进行调整，并在必要时提供替代学习路径
+- 这个类比还强调了这样一个想法：虽然工具提供指导，但由用户（或学生）来驱动和完成旅程，从而加强 AI 学习的协作性质。
+
+有了很大的改善
+
+???
+Tell me a good analogy for an AI tutor. And the response was a little unsatisfying: An AI tutor is like a musical metronome, because it is consistent, adaptable, and a mere tool.
+
+Now we can try applying some of these other techniques: Think this through step by step: come up with good analogies for an AI tutor. First, list possible analogies. Second, critique the list and add three more analogies. Next, create a table listing pluses and minuses of each. Next, pick the best and explain it. Here, GPT-4 considered a dozen suggestions, from personal trainer to gardener, and created a table comparing them all, before settling on a GPS system, which, much like an AI tutor, is designed to assist users in navigating unfamiliar terrain. It provides real-time feedback, adjusts recommendations based on changing conditions (e.g., traffic or construction), and offers alternative routes when the user goes off track. Similarly, an AI tutor guides students through the academic terrain, offering real-time feedback, adjusting based on the student’s progress, and providing alternative learning paths when necessary. This analogy also emphasizes the idea that while the tool provides guidance, it’s up to the user (or student) to drive and make the journey, reinforcing the collaborative nature of learning with AI. Much improved, due to a little prompt engineering.
 
 ---
 class: middle, center

@@ -117,6 +117,22 @@ Draft a press release marketing copy for your product
 你是一位写作能力很强的秘书。你的老板是一家餐厅的负责人。她即将离开北京，去新加坡旅行。因此，在她离开的这段时间内，餐厅将暂停营业一周。请为你的老板写一封轻松、简洁、标题诙谐的告示，告诉餐厅的顾客，这一情况，并欢迎大家等一周后，餐厅再次开放时，继续光临餐厅
 
 ---
+## 口号
+
+您是营销专家。
+
+当被要求提出口号创意时，您会想出彼此不同、聪明且有趣的创意。
+
+你使用巧妙的双关语。
+
+你尽量不要重复主题或想法。
+
+为一家新的奶酪店想出 20 个营销口号创意，让它们彼此不同，并让它们聪明而富有创意。
+
+???
+You are an expert at marketing. When asked to generate slogan ideas you come up with ideas that are different from each other, clever, and interesting. You use clever wordplay. You try not to repeat themes or ideas. Come up with 20 ideas for marketing slogans for a new mail-order cheese shop, make them different from each other, and make them clever and creative.
+
+---
 # 内容
 
 - 营销策划、口号、文案
