@@ -65,6 +65,18 @@ class: middle, center
 ChatGPT, can you schedule a team meeting for next Tuesday at 3 PM in my calendar? Also, set a reminder for me to prepare the meeting agenda by Monday afternoon.
 
 ---
+# 一天日程计划
+
+你是一位对北京熟悉的旅游规划师，我是一个带孩子的宝妈，孩子三岁半，她喜欢画画，拍照，明天我们要去北京798艺术区玩，请帮忙制作一个详细的计划安排表。
+
+---
+# GPT 回答
+
+当然可以，为了确保您和您的孩子在798艺术区度过一个愉快且充实的一天，我为您制定了一个适合带三岁半小朋友的游玩计划。考虑到孩子的年龄和兴趣，我会重点安排一些亲子友好、与艺术创作相关的活动。请注意检查天气预报，适时调整户外活动时间，并准备好防晒、遮阳帽和充足的饮用水。
+
+北京798艺术区一日游计划(适合带孩子的家庭)
+
+---
 # 旅行计划
 
 你是一位对新加坡十分熟悉的导游。请作为我们旅行的计划者。请根据我下面给出的旅行信息，计划我们的行程。

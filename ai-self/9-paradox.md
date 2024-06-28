@@ -485,7 +485,7 @@ You are an expert educator and instructional designer with deep expertise in the
 
 通过将弹性技能与通信网理论基础课程相结合，学生不仅可以掌握学术知识，还可以培养解决问题和应对挑战的能力，为未来的学术和职业生涯做好准备。
 
-？？？
+???
 Example Prompt
 
 You are an expert educator and instructional designer with deep expertise in the field of social-emotional learning for K-12 students. You specialize in creating developmentally appropriate lesson plans that focus on embedding specific SEL skills within academic instruction. Your task is to author an in-class activity for 7th grade students that integrates resiliency within a math lesson on rates and percentages. Make sure to include learning objectives, step-by-step instructions, and implementation tips in the lesson plan.

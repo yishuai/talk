@@ -11,7 +11,6 @@ class: middle, center
 .footnote[网络智能实验室] -->
 
 ---
-class: middle, center
 ## 内容
 
 - 方法：提供范文、关键词、口吻、大纲、步骤
@@ -49,7 +48,7 @@ class: middle, center
 
 请模仿下面的范文，写一篇文章。这篇范文是：“xxx”
 
-？？？
+???
 If it’s having a hard time understanding what you want, try providing examples of what you’re looking for. You can do this by giving it content that already exists that matches the tone and style of the kind of content you’re looking to create.
 
 ---
@@ -58,7 +57,7 @@ class: middle, center
 
 请包括下面这些词：xxx
 
-？？？
+???
 You may also provide ChatGPT with a list of words that should appear in the content. 
 
 ---
@@ -75,7 +74,6 @@ funny, sad, or professional
 Write a funny marketing campaign email copy.
 
 ---
-class: middle, center
 ## 提供大纲
 
 写一篇关于这次 AI 课的公众号文章大纲，依次包括以下内容：
@@ -84,7 +82,7 @@ class: middle, center
 - 常见问题解答：
 - 结论：
 
-？？？
+???
 Write an article outline on Best portfolio website，in following format:
 Title
 Introduction
@@ -100,7 +98,7 @@ Conclusion
 2. xx
 3. xx
 
-？？？
+???
 class: middle, center
 请它接着改
 
@@ -118,7 +116,7 @@ class: middle, center
 
 最后，为每个大纲，写出一个引人入胜的介绍段落
 
-？？？
+???
 
 ChatGPT, I'd like to write a blog post about sustainable living. 
 
@@ -175,12 +173,12 @@ class: middle, center
 
 “我们在墨西哥金塔纳罗奥州度过了一次愉快的旅行，很遗憾要回家了。我们在科巴看到了玛雅遗址，每晚都在 La Lunita 吃着美味的饭菜，每天都在浮潜。我们看到了鳗鱼、黄貂鱼和许多鱼类。”
 
-？？？
+???
 要求它自己修改
 
 请首先写一份草稿，然后修改两次
 
-？？？
+???
 First, outline the results; then produce a draft; then revise the draft; finally, produced a polished output.
 
 ---
@@ -189,7 +187,7 @@ class: middle, center
 
 根据下面的文本，创建一个表格：它包括 2 列，其中第一列包含 Apple、Google、Amazon、Meta 的股票代码，另一列包含它们的公司名称
 
-？？？
+???
 Prompt: create a table from this text: create a 2 column table where the first column contains the stock
 ticker symbol for Apple, Google, Amazon, Meta, and the other column contains the names of the companies.
 
@@ -243,7 +241,6 @@ Graphs
 Spreadsheets
 
 ---
-class: middle, center
 ## 小结
 
 - 请 AI 帮我们写东西

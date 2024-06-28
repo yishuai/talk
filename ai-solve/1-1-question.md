@@ -732,7 +732,7 @@ Language models themselves don’t keep track of state. However, applications su
   - 用计算器、搜索引擎
 
 ---
-## 小结
+# 小结
 
 - 有问题问 AI
 - AI 回答问题的原理：听上半句，猜下半句
@@ -744,3 +744,7 @@ Language models themselves don’t keep track of state. However, applications su
   - 请继续、问还要什么、请帮问、补充信息、请重答
   - 换话题时，新建聊天
 
+---
+# 总结
+
+.center[.width-60[![](./fig/summary.jpg)]]
